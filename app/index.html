@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#100d25">
+  <title>Leonida Trophy Atlas — GTA VI</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="top-glow" aria-hidden="true"></div>
+  <header class="site-header">
+    <div class="brand-mark" aria-hidden="true"><span>VI</span></div>
+    <div class="brand-copy"><p class="eyebrow">FIELD GUIDE · PLAYSTATION 5</p><h1>Leonida <em>Trophy Atlas</em></h1><p class="subtitle">55 trophies · ~200h platinum · 4/10 · ~60h story · no online, difficulty or mission-medal trophies.</p></div>
+    <div class="completion-ring" aria-label="Overall completion"><strong id="overall-percent">0%</strong><span>complete</span></div>
+  </header>
+  <main>
+    <section class="progress-panel" aria-label="Trophy progress">
+      <div class="progress-head"><div><span class="eyebrow">YOUR RUN</span><h2 id="progress-label">0 of 55 earned</h2></div><span class="progress-note">Every road leads somewhere.</span></div>
+      <div class="progress-track"><span id="progress-fill"></span></div>
+      <div class="grade-counts" id="grade-counts"></div>
+    </section>
+    <section class="roadmap-section" id="roadmap">
+      <div class="section-heading"><div><span class="eyebrow">THE ROUTE</span><h2>Platinum roadmap</h2></div><span class="section-meta">5 stages · 55 trophies</span></div>
+      <div class="missable-banner"><span class="alert-icon" aria-hidden="true">!</span><div><strong>Missable: Positive Mental Attitude</strong><p>Lucia’s balcony meditation is only available in Chapter 1. Meditate there early, keep a manual save at every chapter start and before the finale. No mission replay or New Game Plus; cheats disable trophies and saving (<a href="https://www.powerpyx.com/" target="_blank" rel="noreferrer">PowerPyx</a>, GameSpot, PC Gamer).</p></div><a href="#trophy-28">Open guide ↗</a></div>
+      <div id="roadmap-cards" class="roadmap-grid"></div>
+    </section>
+    <section class="tracker-section" id="tracker">
+      <div class="section-heading tracker-heading"><div><span class="eyebrow">THE CHECKLIST</span><h2>All trophies <span id="visible-count">55</span></h2></div><p class="section-meta">Tap a card to open its field notes.</p></div>
+      <div class="toolbar">
+        <label class="search-box"><span class="sr-only">Search trophies</span><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.8" cy="10.8" r="6.8"></circle><path d="m16 16 5 5"></path></svg><input id="search" type="search" placeholder="Search trophies, notes…"></label>
+        <label class="select-wrap"><span>GRADE</span><select id="grade-filter"><option value="all">All grades</option><option value="platinum">Platinum</option><option value="gold">Gold</option><option value="silver">Silver</option><option value="bronze">Bronze</option></select></label>
+        <label class="select-wrap"><span>TYPE</span><select id="kind-filter"><option value="all">All types</option><option value="story">Story</option><option value="missable">Missable</option><option value="collectible">Collectibles</option><option value="activity">Activities</option><option value="robbery">Robberies</option><option value="combat">Combat</option><option value="exploration">Exploration</option></select></label>
+        <label class="select-wrap"><span>STATUS</span><select id="earned-filter"><option value="all">All status</option><option value="earned">Earned</option><option value="not-earned">Not earned</option></select></label>
+      </div>
+      <div class="toolbar-bottom"><label class="spoiler-switch"><input id="spoiler-toggle" type="checkbox"><span class="switch-ui"></span><span>Hide story spoilers</span></label><div class="data-actions"><button id="export-button" class="quiet-button" type="button">↓ Export</button><label class="quiet-button import-button">↑ Import<input id="import-file" type="file" accept="application/json"></label><button id="reset-button" class="quiet-button reset-button" type="button">Reset</button></div></div>
+      <div id="trophy-list" class="trophy-list" aria-live="polite"></div>
+      <p id="empty-state" class="empty-state" hidden>No trophies match those filters. Try another route.</p>
+    </section>
+  </main>
+  <footer><span>LEONIDA TROPHY ATLAS</span><span>Unofficial field guide · works offline</span></footer>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

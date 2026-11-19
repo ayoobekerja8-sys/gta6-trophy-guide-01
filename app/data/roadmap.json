@@ -1,0 +1,93 @@
+{
+  "stages": [
+    {
+      "title": "01 / Story first",
+      "summary": "Finish all five chapters and the final mission to establish the story baseline. These 12 story trophies are hidden until earned; the final mission also closes the main narrative.",
+      "trophyIds": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "title": "02 / Side missions and strangers",
+      "summary": "Work through Andy, Kenton, Billy, Randy, Tyrone and Bret, then complete eight stranger strands. Recheck the map as story progress opens new strand steps.",
+      "trophyIds": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        29
+      ]
+    },
+    {
+      "title": "03 / Collectibles and counts",
+      "summary": "Build steady progress toward 100 WAiNK It locations, 100 vehicles, three card sets, 18 meditation spots and 50 challenges and 10 Scooter Bros registrations. Do the Chapter 1 balcony meditation early; it is the reported missable.",
+      "trophyIds": [
+        28,
+        30,
+        31,
+        32,
+        35,
+        52,
+        53,
+        54,
+        55
+      ]
+    },
+    {
+      "title": "04 / Combat and robberies",
+      "summary": "Finish the 250 stunts, 42 shooting-range golds, five bank vaults, armored truck, unseen jewelry robbery, one illegal operation per gang and Combat Focus takedowns.",
+      "trophyIds": [
+        15,
+        17,
+        33,
+        34,
+        36,
+        39,
+        40,
+        41,
+        43
+      ]
+    },
+    {
+      "title": "05 / Cleanup and 100%",
+      "summary": "Use the in-game 35-task checklist to finish A Long Road, then earn the Platinum by completing the remaining list items. Check activity, exploration and hidden moments before closing out.",
+      "trophyIds": [
+        1,
+        14,
+        16,
+        18,
+        19,
+        20,
+        21,
+        37,
+        38,
+        42,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51
+      ]
+    }
+  ],
+  "missables": {
+    "title": "Missable warning: Positive Mental Attitude",
+    "text": "Meditate at all 18 spots. Lucia’s balcony meditation disappears after Chapter 1; do it early. Keep a manual save at the start of every chapter and before the final mission. The game has no mission replay or New Game Plus. Cheats disable trophies and saving."
+  }
+}
