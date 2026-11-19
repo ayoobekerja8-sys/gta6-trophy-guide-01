@@ -8,21 +8,31 @@
       "name": "Vice Got a Price!",
       "description": "Congratulations! You're a Leonida Legend.",
       "grade": "platinum",
-      "guide": "Work toward Vice Got a Price! by meeting its official condition: Congratulations! You're a Leonida Legend. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "The platinum is awarded after the rest of the single-player list is complete. Treat it as the campaign’s final checklist reward and use the tracker to spot any remaining entry.",
       "kinds": [
         "activities"
       ],
       "guideDetails": {
-        "summary": "Work toward Vice Got a Price! by meeting its official condition: Congratulations! You're a Leonida Legend. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "The platinum is awarded after the rest of the single-player list is complete. Treat it as the campaign’s final checklist reward and use the tracker to spot any remaining entry.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Congratulations! You're a Leonida Legend.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Finish the other 54 single-player trophies; no online or DLC trophy is part of this requirement. (PowerPyx).",
+          "Use the in-game trophy list to identify anything left before returning to this entry. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -32,21 +42,31 @@
       "name": "Just Like Paradise",
       "description": "Complete Gone Fishing.",
       "grade": "bronze",
-      "guide": "Work toward Just Like Paradise by meeting its official condition: Complete Gone Fishing. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "Gone Fishing is the opening story mission, so this arrives through normal campaign progress. Follow the opening objective to its completion; no separate collectible or score condition is listed.",
       "kinds": [
         "story"
       ],
       "guideDetails": {
-        "summary": "Work toward Just Like Paradise by meeting its official condition: Complete Gone Fishing. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "Gone Fishing is the opening story mission, so this arrives through normal campaign progress. Follow the opening objective to its completion; no separate collectible or score condition is listed.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Complete Gone Fishing.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Start Chapter 1 and follow the main objective for Gone Fishing. (PowerPyx).",
+          "Finish the mission; the trophy is reported to unlock automatically. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -56,21 +76,31 @@
       "name": "Paradise Lost",
       "description": "Complete Chapter 1.",
       "grade": "bronze",
-      "guide": "Work toward Paradise Lost by meeting its official condition: Complete Chapter 1. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "This is a chapter-completion award rather than a side objective. Continue the main story into Chapter 2; the preceding chapter award is reported to trigger on the first mission there.",
       "kinds": [
         "story"
       ],
       "guideDetails": {
-        "summary": "Work toward Paradise Lost by meeting its official condition: Complete Chapter 1. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "This is a chapter-completion award rather than a side objective. Continue the main story into Chapter 2; the preceding chapter award is reported to trigger on the first mission there.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Complete Chapter 1.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Complete Chapter 1’s main story sequence. (PowerPyx).",
+          "Begin What’s in the Bag? in Chapter 2 to trigger the chapter award. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -80,21 +110,31 @@
       "name": "T**s Ass Drug Money",
       "description": "Complete Chapter 2.",
       "grade": "bronze",
-      "guide": "Work toward T**s Ass Drug Money by meeting its official condition: Complete Chapter 2. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "Progress through Chapter 2’s story missions to reach the next chapter. The guide reports the award at the start of Chapter 3, so there is no extra activity to grind.",
       "kinds": [
         "story"
       ],
       "guideDetails": {
-        "summary": "Work toward T**s Ass Drug Money by meeting its official condition: Complete Chapter 2. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "Progress through Chapter 2’s story missions to reach the next chapter. The guide reports the award at the start of Chapter 3, so there is no extra activity to grind.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Complete Chapter 2.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Finish the Chapter 2 story missions. (PowerPyx).",
+          "Start Welcome to Vice City in Chapter 3; the trophy is reported to unlock automatically. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -104,21 +144,31 @@
       "name": "Vice City, Baby!",
       "description": "Complete Chapter 3.",
       "grade": "bronze",
-      "guide": "Work toward Vice City, Baby! by meeting its official condition: Complete Chapter 3. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "The Chapter 3 award triggers as the story advances into Chapter 4. The guide places the unlock after the opening pair of Chapter 4 missions.",
       "kinds": [
         "story"
       ],
       "guideDetails": {
-        "summary": "Work toward Vice City, Baby! by meeting its official condition: Complete Chapter 3. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "The Chapter 3 award triggers as the story advances into Chapter 4. The guide places the unlock after the opening pair of Chapter 4 missions.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Complete Chapter 3.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Complete Chapter 3’s main story. (PowerPyx).",
+          "Finish Ocean Beach and Another Life in Chapter 4 to reach the reported unlock point. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -128,21 +178,31 @@
       "name": "Top Of The World, Ma",
       "description": "Complete Chapter 4.",
       "grade": "bronze",
-      "guide": "Work toward Top Of The World, Ma by meeting its official condition: Complete Chapter 4. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "This chapter award comes at the end of Chapter 4. Keep following the story through its concluding mission; no optional medal requirement is reported.",
       "kinds": [
         "story"
       ],
       "guideDetails": {
-        "summary": "Work toward Top Of The World, Ma by meeting its official condition: Complete Chapter 4. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "This chapter award comes at the end of Chapter 4. Keep following the story through its concluding mission; no optional medal requirement is reported.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Complete Chapter 4.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Advance the main story through Chapter 4. (PowerPyx).",
+          "Complete Starting From Zero, the reported chapter-ending unlock point. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -152,21 +212,31 @@
       "name": "You Gotta Know When to Get Off",
       "description": "Complete the final mission.",
       "grade": "gold",
-      "guide": "Work toward You Gotta Know When to Get Off by meeting its official condition: Complete the final mission. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "The final story award is attached to the campaign’s last mission. PowerPyx reports the same Chapter 4 mission as the unlock point for this entry.",
       "kinds": [
         "story"
       ],
       "guideDetails": {
-        "summary": "Work toward You Gotta Know When to Get Off by meeting its official condition: Complete the final mission. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "The final story award is attached to the campaign’s last mission. PowerPyx reports the same Chapter 4 mission as the unlock point for this entry.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Complete the final mission.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Follow the main missions through the campaign finale. (PowerPyx).",
+          "Complete Starting From Zero; the guide reports the trophy unlocks automatically. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -176,21 +246,31 @@
       "name": "Trust",
       "description": "Complete Breakfast Run.",
       "grade": "bronze",
-      "guide": "Work toward Trust by meeting its official condition: Complete Breakfast Run. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "Breakfast Run is a story mission in Chapter 2. Complete its objectives as part of the campaign; this entry does not call for a separate challenge or medal.",
       "kinds": [
         "story"
       ],
       "guideDetails": {
-        "summary": "Work toward Trust by meeting its official condition: Complete Breakfast Run. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "Breakfast Run is a story mission in Chapter 2. Complete its objectives as part of the campaign; this entry does not call for a separate challenge or medal.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Complete Breakfast Run.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Continue the main story until Chapter 2’s Breakfast Run mission. (PowerPyx).",
+          "Complete the mission to trigger the reported automatic award. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -200,21 +280,31 @@
       "name": "Break the Bank",
       "description": "Complete The Cartel Heist.",
       "grade": "bronze",
-      "guide": "Work toward Break the Bank by meeting its official condition: Complete The Cartel Heist. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "The Cartel Heist is a Chapter 3 story mission. The trophy follows the mission itself, so focus on clearing its objectives rather than replaying it for a score.",
       "kinds": [
         "story"
       ],
       "guideDetails": {
-        "summary": "Work toward Break the Bank by meeting its official condition: Complete The Cartel Heist. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "The Cartel Heist is a Chapter 3 story mission. The trophy follows the mission itself, so focus on clearing its objectives rather than replaying it for a score.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Complete The Cartel Heist.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Progress through the Chapter 3 main story to The Cartel Heist. (PowerPyx).",
+          "Finish the mission; the guide reports an automatic unlock during it. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -224,21 +314,31 @@
       "name": "Family Matters",
       "description": "Complete Child's Play.",
       "grade": "bronze",
-      "guide": "Work toward Family Matters by meeting its official condition: Complete Child's Play. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "Child’s Play is part of Chapter 4’s main story. Completing that mission is the full reported requirement.",
       "kinds": [
         "story"
       ],
       "guideDetails": {
-        "summary": "Work toward Family Matters by meeting its official condition: Complete Child's Play. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "Child’s Play is part of Chapter 4’s main story. Completing that mission is the full reported requirement.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Complete Child's Play.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Reach Chapter 4 through the main story. (PowerPyx).",
+          "Complete Child’s Play; no added medal or optional condition is listed. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -248,21 +348,31 @@
       "name": "DWNFALL",
       "description": "Complete Headliners.",
       "grade": "bronze",
-      "guide": "Work toward DWNFALL by meeting its official condition: Complete Headliners. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "Headliners is another story-linked award in Chapter 4. Follow the mission chain normally and finish it to receive the trophy.",
       "kinds": [
         "story"
       ],
       "guideDetails": {
-        "summary": "Work toward DWNFALL by meeting its official condition: Complete Headliners. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "Headliners is another story-linked award in Chapter 4. Follow the mission chain normally and finish it to receive the trophy.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Complete Headliners.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Continue the Chapter 4 main story until Headliners. (PowerPyx).",
+          "Complete the mission for the reported automatic unlock. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -272,21 +382,31 @@
       "name": "Hi-Jacked",
       "description": "Complete VCIA Takedown.",
       "grade": "bronze",
-      "guide": "Work toward Hi-Jacked by meeting its official condition: Complete VCIA Takedown. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "VCIA Takedown is the story mission tied to this trophy. The guide places it in Chapter 4 and reports no extra condition beyond completion.",
       "kinds": [
         "story"
       ],
       "guideDetails": {
-        "summary": "Work toward Hi-Jacked by meeting its official condition: Complete VCIA Takedown. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "VCIA Takedown is the story mission tied to this trophy. The guide places it in Chapter 4 and reports no extra condition beyond completion.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Complete VCIA Takedown.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Advance the Chapter 4 main missions to VCIA Takedown. (PowerPyx).",
+          "Complete the mission; the trophy is reported to unlock during the story sequence. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -296,21 +416,31 @@
       "name": "Snow Storm",
       "description": "Complete Operation Savage Glory.",
       "grade": "bronze",
-      "guide": "Work toward Snow Storm by meeting its official condition: Complete Operation Savage Glory. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "Operation Savage Glory is the Chapter 5 mission linked to this award. Keep progressing the campaign until it appears and complete the mission.",
       "kinds": [
         "story"
       ],
       "guideDetails": {
-        "summary": "Work toward Snow Storm by meeting its official condition: Complete Operation Savage Glory. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "Operation Savage Glory is the Chapter 5 mission linked to this award. Keep progressing the campaign until it appears and complete the mission.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Complete Operation Savage Glory.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Reach Chapter 5 in the main story. (PowerPyx).",
+          "Complete Operation Savage Glory to trigger the reported story award. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -320,21 +450,32 @@
       "name": "A Long Road",
       "description": "Attain 100% Completion.",
       "grade": "gold",
-      "guide": "Work toward A Long Road by meeting its official condition: Attain 100% Completion. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "The game’s checklist tracks this after the story under Progress → Stats → 100% Completion. Story progress carries over, and PowerPyx reports that the checklist can be finished in free roam after the finale.",
       "kinds": [
         "activities"
       ],
       "guideDetails": {
-        "summary": "Work toward A Long Road by meeting its official condition: Attain 100% Completion. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "The game’s checklist tracks this after the story under Progress → Stats → 100% Completion. Story progress carries over, and PowerPyx reports that the checklist can be finished in free roam after the finale.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Attain 100% Completion.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Finish the story to access the checklist at Progress > Stats > 100% Completion. (PowerPyx).",
+          "Use that screen to work through its listed objectives; earlier progress counts. (PowerPyx).",
+          "Return to free roam for remaining checklist tasks. The guide says no checklist requirement is missable. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -344,21 +485,32 @@
       "name": "Cunning Stunts",
       "description": "Complete 250 Stunts.",
       "grade": "silver",
-      "guide": "Work toward Cunning Stunts by meeting its official condition: Complete 250 Stunts. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "The stunt tracker accepts 250 completions from the game’s 397 total. PowerPyx lists jumps, bridge flights, knife flights, and base jumps as the four categories; the 100% checklist asks for 300, so that route also covers this trophy.",
       "kinds": [
         "activities"
       ],
       "guideDetails": {
-        "summary": "Work toward Cunning Stunts by meeting its official condition: Complete 250 Stunts. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "The stunt tracker accepts 250 completions from the game’s 397 total. PowerPyx lists jumps, bridge flights, knife flights, and base jumps as the four categories; the 100% checklist asks for 300, so that route also covers this trophy.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Complete 250 Stunts.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Complete any 250 stunts across the four categories; no single category is required for this trophy. (PowerPyx).",
+          "Track progress at Progress > Activities > Stunts or on the map’s Exploration > Stunt Spots list. (PowerPyx).",
+          "For 100% cleanup, continue to 300 stunts. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -368,21 +520,31 @@
       "name": "Master of None",
       "description": "Try each type of activity once.",
       "grade": "bronze",
-      "guide": "Work toward Master of None by meeting its official condition: Try each type of activity once. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "The activity tracker lists nine types, and one completion in each is enough. PowerPyx says most are introduced by story play or appear as blue activity icons as the map opens.",
       "kinds": [
         "activities"
       ],
       "guideDetails": {
-        "summary": "Work toward Master of None by meeting its official condition: Try each type of activity once. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "The activity tracker lists nine types, and one completion in each is enough. PowerPyx says most are introduced by story play or appear as blue activity icons as the map opens.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Try each type of activity once.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Check Touchpad > Progress > Activities to see the activity categories and counters. (PowerPyx).",
+          "Complete one each of fishing, hunting, golf, shooting range, pool, basketball, a video game, a race, and a stunt. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -392,21 +554,31 @@
       "name": "The Shootist",
       "description": "Earn a gold medal in all Shooting Range challenges.",
       "grade": "silver",
-      "guide": "Work toward The Shootist by meeting its official condition: Earn a gold medal in all Shooting Range challenges. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "Every Shooting Range challenge needs a gold medal: the guide counts 42 challenges at 12 ranges. Use its location list to plan the range visits, then replay any challenge that falls short.",
       "kinds": [
         "activities"
       ],
       "guideDetails": {
-        "summary": "Work toward The Shootist by meeting its official condition: Earn a gold medal in all Shooting Range challenges. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "Every Shooting Range challenge needs a gold medal: the guide counts 42 challenges at 12 ranges. Use its location list to plan the range visits, then replay any challenge that falls short.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Earn a gold medal in all Shooting Range challenges.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Visit all 12 Shooting Range locations. (PowerPyx).",
+          "Earn gold on each of the 42 challenges; track medal results at the ranges. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -416,21 +588,31 @@
       "name": "Top Fun",
       "description": "Win a Top Fun Drone Race at every location.",
       "grade": "bronze",
-      "guide": "Work toward Top Fun by meeting its official condition: Win a Top Fun Drone Race at every location. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "The trophy covers every Top Fun location. PowerPyx lists 14 locations with three drone races apiece, for 42 wins total.",
       "kinds": [
         "activities"
       ],
       "guideDetails": {
-        "summary": "Work toward Top Fun by meeting its official condition: Win a Top Fun Drone Race at every location. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "The trophy covers every Top Fun location. PowerPyx lists 14 locations with three drone races apiece, for 42 wins total.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Win a Top Fun Drone Race at every location.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Find each of the 14 Top Fun locations using the location guide. (PowerPyx).",
+          "Win all three drone races at every location (42 wins altogether). (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -440,21 +622,31 @@
       "name": "Earn Cash, Not Kudos",
       "description": "Win 20 different races.",
       "grade": "bronze",
-      "guide": "Work toward Earn Cash, Not Kudos by meeting its official condition: Win 20 different races. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "Only 20 distinct race wins count, while the guide lists 40 unique races. Choose races you can consistently finish first in and use different events rather than repeating one.",
       "kinds": [
         "activities"
       ],
       "guideDetails": {
-        "summary": "Work toward Earn Cash, Not Kudos by meeting its official condition: Win 20 different races. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "Only 20 distinct race wins count, while the guide lists 40 unique races. Choose races you can consistently finish first in and use different events rather than repeating one.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Win 20 different races.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Find race events on the map and choose 20 different ones. (PowerPyx).",
+          "Win each selected event; repeating the same race does not satisfy the distinct-race requirement. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -464,21 +656,32 @@
       "name": "Baited My Tackle",
       "description": "Beat Cal in a fishing challenge.",
       "grade": "bronze",
-      "guide": "Work toward Baited My Tackle by meeting its official condition: Beat Cal in a fishing challenge. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "Cal’s fishing challenge opens after the Chapter 1 mission Feng Shui. The guide says Cal sends a text that marks the activity with a purple map icon; complete his challenge there.",
       "kinds": [
         "activities"
       ],
       "guideDetails": {
-        "summary": "Work toward Baited My Tackle by meeting its official condition: Beat Cal in a fishing challenge. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "Cal’s fishing challenge opens after the Chapter 1 mission Feng Shui. The guide says Cal sends a text that marks the activity with a purple map icon; complete his challenge there.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Beat Cal in a fishing challenge.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Complete Feng Shui (Meet Cal) in Chapter 1. (PowerPyx).",
+          "Wait for Cal’s text and follow the purple fishing marker. (PowerPyx).",
+          "Beat Cal in the marked fishing challenge. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -488,21 +691,32 @@
       "name": "Stick Fiddler",
       "description": "Complete an arcade game.",
       "grade": "bronze",
-      "guide": "Work toward Stick Fiddler by meeting its official condition: Complete an arcade game. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "Any one of the four listed video games can satisfy this, but completion means finishing its levels. The three home-console games are available at the TV when accessible; the fourth is found at arcade machines.",
       "kinds": [
         "activities"
       ],
       "guideDetails": {
-        "summary": "Work toward Stick Fiddler by meeting its official condition: Complete an arcade game. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "Any one of the four listed video games can satisfy this, but completion means finishing its levels. The three home-console games are available at the TV when accessible; the fourth is found at arcade machines.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Complete an arcade game.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Choose Tenebrae Lux, Street Trash III, Time Jackers Rewind, or Bang For Your Buck. (PowerPyx).",
+          "Finish all levels in that game once; completing every challenge is unnecessary. (PowerPyx).",
+          "If the home TV is temporarily unavailable during a story section, return later or use an arcade machine. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -512,21 +726,32 @@
       "name": "Road to Rehabilitation",
       "description": "Complete the final mission for Andy.",
       "grade": "bronze",
-      "guide": "Work toward Road to Rehabilitation by meeting its official condition: Complete the final mission for Andy. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "Andy’s five-part questline is exclusive to Lucia and becomes marked during Chapter 3. PowerPyx reports the remaining missions stay available after the story, so this can be cleaned up later.",
       "kinds": [
         "story"
       ],
       "guideDetails": {
-        "summary": "Work toward Road to Rehabilitation by meeting its official condition: Complete the final mission for Andy. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "Andy’s five-part questline is exclusive to Lucia and becomes marked during Chapter 3. PowerPyx reports the remaining missions stay available after the story, so this can be cleaned up later.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Complete the final mission for Andy.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Play as Lucia in Chapter 3 and wait for Andy’s call and address text in Belville. (PowerPyx).",
+          "Complete the five Andy missions, ending with Puff Puff Pass. (PowerPyx).",
+          "If the line is not finished during the campaign, return in post-story free roam. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -536,21 +761,32 @@
       "name": "This Was No Boat Accident",
       "description": "Complete the final mission for Kenton.",
       "grade": "bronze",
-      "guide": "Work toward This Was No Boat Accident by meeting its official condition: Complete the final mission for Kenton. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "Kenton’s questline starts after Island Dreams and centers on underwater treasure recovery. The guide lists seven shipwrecks and says the chain returns after a temporary Chapter 1 pause.",
       "kinds": [
         "story"
       ],
       "guideDetails": {
-        "summary": "Work toward This Was No Boat Accident by meeting its official condition: Complete the final mission for Kenton. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "Kenton’s questline starts after Island Dreams and centers on underwater treasure recovery. The guide lists seven shipwrecks and says the chain returns after a temporary Chapter 1 pause.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Complete the final mission for Kenton.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "After Island Dreams, meet Kenton at the green KR marker in Key Lento when it appears. (PowerPyx).",
+          "Dive at his marked purple treasure sites and recover the underwater items, using the metal detector to dig them up. (PowerPyx).",
+          "Finish all seven shipwrecks; check Progress > Characters or Collections to track them. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -560,21 +796,32 @@
       "name": "The Lone Rider",
       "description": "Complete the final mission for Billy.",
       "grade": "bronze",
-      "guide": "Work toward The Lone Rider by meeting its official condition: Complete the final mission for Billy. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "Billy’s five missions are marked at Thrillbilly Mudclub after Coffee Break. Complete his job chain through Hometown Heroes; the guide says the line remains available after the story.",
       "kinds": [
         "story"
       ],
       "guideDetails": {
-        "summary": "Work toward The Lone Rider by meeting its official condition: Complete the final mission for Billy. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "Billy’s five missions are marked at Thrillbilly Mudclub after Coffee Break. Complete his job chain through Hometown Heroes; the guide says the line remains available after the story.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Complete the final mission for Billy.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "After Coffee Break, go to the Billy marker at Thrillbilly Mudclub in Kelly County. (PowerPyx).",
+          "Complete all five Billy missions, ending with Hometown Heroes. (PowerPyx).",
+          "If needed, finish the remaining jobs in post-story free roam. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -584,21 +831,32 @@
       "name": "Strangers & Freaks",
       "description": "Complete 8 mission strands for strangers across the state of Leonida.",
       "grade": "silver",
-      "guide": "Work toward Strangers & Freaks by meeting its official condition: Complete 8 mission strands for strangers across the state of Leonida. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "Eight qualifying stranger questlines count, but the PowerPyx guide warns that many optional character chains do not qualify. Check the trophy tracker after finishing each strand and favor its confirmed Stranger & Freaks list.",
       "kinds": [
         "story"
       ],
       "guideDetails": {
-        "summary": "Work toward Strangers & Freaks by meeting its official condition: Complete 8 mission strands for strangers across the state of Leonida. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "Eight qualifying stranger questlines count, but the PowerPyx guide warns that many optional character chains do not qualify. Check the trophy tracker after finishing each strand and favor its confirmed Stranger & Freaks list.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Complete 8 mission strands for strangers across the state of Leonida.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Complete eight qualifying stranger mission strands found in the open world. (PowerPyx).",
+          "Do not assume every optional character quest counts; the guide excludes several chains, including Andy, Billy, and Tyrone. (PowerPyx).",
+          "Use the trophy tracker to confirm strand progress; remaining quests can be completed after the story. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -608,21 +866,32 @@
       "name": "Supply & Demand",
       "description": "Complete the final mission for Randy.",
       "grade": "bronze",
-      "guide": "Work toward Supply & Demand by meeting its official condition: Complete the final mission for Randy. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "Randy’s Wish List begins after the Chapter 3 Zorrusso mission and asks Jason to deliver requested cars. The trophy is tied to the final mission of that questline, which remains available after the campaign.",
       "kinds": [
         "story"
       ],
       "guideDetails": {
-        "summary": "Work toward Supply & Demand by meeting its official condition: Complete the final mission for Randy. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "Randy’s Wish List begins after the Chapter 3 Zorrusso mission and asks Jason to deliver requested cars. The trophy is tied to the final mission of that questline, which remains available after the campaign.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Complete the final mission for Randy.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Complete Clonin’ Keys, Makin’ GS to start Randy’s vehicle list. (PowerPyx).",
+          "As Jason, find and deliver each requested sports car; scan vehicles with WAiNK and track the list under Map > Robberies. (PowerPyx).",
+          "Finish the resulting final Randy mission. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -632,21 +901,32 @@
       "name": "Spin On This!",
       "description": "Complete the final mission for Tyrone.",
       "grade": "bronze",
-      "guide": "Work toward Spin On This! by meeting its official condition: Complete the final mission for Tyrone. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "Tyrone’s lab chain is available to Jason after Here, Kitty Kitty. Destroy enough marked Synthetic Labs to unlock the concluding mission; this chain is also available after the story.",
       "kinds": [
         "story"
       ],
       "guideDetails": {
-        "summary": "Work toward Spin On This! by meeting its official condition: Complete the final mission for Tyrone. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "Tyrone’s lab chain is available to Jason after Here, Kitty Kitty. Destroy enough marked Synthetic Labs to unlock the concluding mission; this chain is also available after the story.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Complete the final mission for Tyrone.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "After Here, Kitty Kitty, switch to Jason and follow the purple Synthetic Labs markers. (PowerPyx).",
+          "Complete Take Out Kitty Litter by shutting down the labs. (PowerPyx).",
+          "Finish the follow-up mission Spin On This. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -656,22 +936,33 @@
       "name": "Positive Mental Attitude",
       "description": "Meditate at every spot across Leonida.",
       "grade": "bronze",
-      "guide": "Work toward Positive Mental Attitude by meeting its official condition: Meditate at every spot across Leonida. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "There are 18 marked meditation spots across 10 locations, tracked under Progress > Collections > Exploration > Meditations. The Chapter 1 balcony interaction at Jason’s house is reported as permanently missable, though the guide says whether that interaction counts toward this trophy is still being confirmed.",
       "kinds": [
         "missable",
         "activities"
       ],
       "guideDetails": {
-        "summary": "Work toward Positive Mental Attitude by meeting its official condition: Meditate at every spot across Leonida. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "There are 18 marked meditation spots across 10 locations, tracked under Progress > Collections > Exploration > Meditations. The Chapter 1 balcony interaction at Jason’s house is reported as permanently missable, though the guide says whether that interaction counts toward this trophy is still being confirmed.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Meditate at every spot across Leonida.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "During Chapter 1, after Down to Earth, speak with Lucia in the morning when she mentions meditation and follow her to Jason’s balcony. (PowerPyx).",
+          "Accept Lucia’s invitation and complete the meditation before leaving Chapter 1; preserve a manual save if you want a recovery point. (PowerPyx).",
+          "After unlocking both-character play, visit all 18 marked meditation spots across Leonida and check the collection tracker. The Chapter 1 interaction’s necessity remains unconfirmed. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/#positive-mental-attitude",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -681,21 +972,32 @@
       "name": "Fair Game",
       "description": "Hunt a unique animal for Bret.",
       "grade": "bronze",
-      "guide": "Work toward Fair Game by meeting its official condition: Hunt a unique animal for Bret. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "Bret’s Target Deck begins with a Jason-only invitation after Coffee Break. The guide recommends completing the full 15-deck hunting chain and bringing requested animals back to Bret; it does not verify which single animal triggers the trophy.",
       "kinds": [
         "activities"
       ],
       "guideDetails": {
-        "summary": "Work toward Fair Game by meeting its official condition: Hunt a unique animal for Bret. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "Bret’s Target Deck begins with a Jason-only invitation after Coffee Break. The guide recommends completing the full 15-deck hunting chain and bringing requested animals back to Bret; it does not verify which single animal triggers the trophy.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Hunt a unique animal for Bret.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "After Coffee Break, play as Jason and follow Bret’s text to Veteran Hunted in Lummox County. (PowerPyx).",
+          "Complete Bret’s marked hunts and return each requested animal to him as Jason. (PowerPyx).",
+          "Finish the 15 Target Decks; the specific animal that triggers the trophy is still unconfirmed in the guide. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -705,21 +1007,31 @@
       "name": "Don't Touch My Deck",
       "description": "Complete 3 Collectible Card sets.",
       "grade": "silver",
-      "guide": "Work toward Don't Touch My Deck by meeting its official condition: Complete 3 Collectible Card sets. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "Collect three complete card sets rather than just three individual cards. The guide links a location list for the 18 sets, so use that to finish each collection.",
       "kinds": [
         "collectibles"
       ],
       "guideDetails": {
-        "summary": "Work toward Don't Touch My Deck by meeting its official condition: Complete 3 Collectible Card sets. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "Collect three complete card sets rather than just three individual cards. The guide links a location list for the 18 sets, so use that to finish each collection.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Complete 3 Collectible Card sets.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Locate cards using the collectible card set guide. (PowerPyx).",
+          "Complete all cards in any three sets; partial sets do not meet the listed requirement. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -729,21 +1041,32 @@
       "name": "You WAiNKer!",
       "description": "WAiNK It at 100 locations.",
       "grade": "silver",
-      "guide": "Work toward You WAiNKer! by meeting its official condition: WAiNK It at 100 locations. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "WAiNK scans work on objects in the environment and the guide says any 100 scans count. It lists landmarks, curiosities, sculptures, and Flusher Tags as scan types.",
       "kinds": [
         "collectibles"
       ],
       "guideDetails": {
-        "summary": "Work toward You WAiNKer! by meeting its official condition: WAiNK It at 100 locations. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "WAiNK scans work on objects in the environment and the guide says any 100 scans count. It lists landmarks, curiosities, sculptures, and Flusher Tags as scan types.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: WAiNK It at 100 locations.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Hold Up and R1 to scan a WAiNK object in the world. (PowerPyx).",
+          "Repeat until 100 scans register; any mix of object types works. (PowerPyx).",
+          "Check the WAiNK progress tracker if you need to confirm the total. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -753,21 +1076,32 @@
       "name": "One Last Thing",
       "description": "Complete 50 Challenges.",
       "grade": "bronze",
-      "guide": "Work toward One Last Thing by meeting its official condition: Complete 50 Challenges. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "There are 80 challenges available, but this trophy needs only 50. The in-game Progress > Challenges menu shows completion, and the 70 needed for 100% will earn this on the way.",
       "kinds": [
         "activities"
       ],
       "guideDetails": {
-        "summary": "Work toward One Last Thing by meeting its official condition: Complete 50 Challenges. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "There are 80 challenges available, but this trophy needs only 50. The in-game Progress > Challenges menu shows completion, and the 70 needed for 100% will earn this on the way.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Complete 50 Challenges.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Open Progress > Challenges and review which entries are completed. (PowerPyx).",
+          "Finish any 50 of the 80 available challenges. (PowerPyx).",
+          "For the 100% checklist, continue to 70; you can leave the ten hardest ones undone. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -777,21 +1111,32 @@
       "name": "Hot Together",
       "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
       "grade": "bronze",
-      "guide": "Work toward Hot Together by meeting its official condition: Lose a 4 star Wanted Level with your partner and escape the heat. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "This requires both characters together and a four-star pursuit. PowerPyx says partner free roam unlocks after Coffee Break; escape the search without losing your partner.",
       "kinds": [
         "story"
       ],
       "guideDetails": {
-        "summary": "Work toward Hot Together by meeting its official condition: Lose a 4 star Wanted Level with your partner and escape the heat. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "This requires both characters together and a four-star pursuit. PowerPyx says partner free roam unlocks after Coffee Break; escape the search without losing your partner.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Lose a 4 star Wanted Level with your partner and escape the heat.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Complete Coffee Break to unlock free roam together, then call your partner. (PowerPyx).",
+          "Build a four-star Wanted Level while together. (PowerPyx).",
+          "Escape the police and clear the heat with your partner still present. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -801,21 +1146,32 @@
       "name": "Retail Therapy",
       "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
       "grade": "bronze",
-      "guide": "Work toward Retail Therapy by meeting its official condition: Rob 3 shops back-to-back with your partner without losing your Wanted Level. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "Shop robberies are marked on the map, and this chain becomes possible once Jason and Lucia can free-roam together after Coffee Break. Keep the Wanted Level active continuously through all three targets.",
       "kinds": [
         "activities"
       ],
       "guideDetails": {
-        "summary": "Work toward Retail Therapy by meeting its official condition: Rob 3 shops back-to-back with your partner without losing your Wanted Level. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "Shop robberies are marked on the map, and this chain becomes possible once Jason and Lucia can free-roam together after Coffee Break. Keep the Wanted Level active continuously through all three targets.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "After Coffee Break, call your partner and locate three shop robbery targets. (PowerPyx).",
+          "Rob each shop in sequence while keeping the police pursuit active; do not let the Wanted Level clear between stops. (PowerPyx).",
+          "Escape only after the third robbery is complete. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -825,21 +1181,31 @@
       "name": "Whip It Good",
       "description": "Discover 100 vehicles.",
       "grade": "bronze",
-      "guide": "Work toward Whip It Good by meeting its official condition: Discover 100 vehicles. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "WAiNK can quickly register vehicles you have not discovered before. The guide says the launch roster contains 557 vehicles and suggests scanning vehicles encountered around the world until the tracker reaches 100.",
       "kinds": [
         "collectibles"
       ],
       "guideDetails": {
-        "summary": "Work toward Whip It Good by meeting its official condition: Discover 100 vehicles. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "WAiNK can quickly register vehicles you have not discovered before. The guide says the launch roster contains 557 vehicles and suggests scanning vehicles encountered around the world until the tracker reaches 100.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Discover 100 vehicles.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Use the WAiNK app on unfamiliar cars, bikes, boats, helicopters, or planes. (PowerPyx).",
+          "Continue until 100 unique vehicles are recorded; repeating a known model will not add a discovery. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -849,21 +1215,32 @@
       "name": "Gunslinger",
       "description": "Take down 5 enemies in a single use of Combat Focus.",
       "grade": "bronze",
-      "guide": "Work toward Gunslinger by meeting its official condition: Take down 5 enemies in a single use of Combat Focus. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "Combat Focus slows time and highlights vulnerable spots while the purple focus meter drains. The challenge is to take five enemies out during one activation, so start with a group close enough to engage quickly.",
       "kinds": [
         "story"
       ],
       "guideDetails": {
-        "summary": "Work toward Gunslinger by meeting its official condition: Take down 5 enemies in a single use of Combat Focus. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "Combat Focus slows time and highlights vulnerable spots while the purple focus meter drains. The challenge is to take five enemies out during one activation, so start with a group close enough to engage quickly.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Take down 5 enemies in a single use of Combat Focus.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Aim a firearm and activate Combat Focus with the listed controls. (PowerPyx).",
+          "While the purple meter is active, kill or incapacitate five enemies before it runs out. (PowerPyx).",
+          "If the group is too spread out, build focus and try again where enemies are clustered. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -873,21 +1250,31 @@
       "name": "Catch Me If You Can",
       "description": "Make an unscheduled departure at VCIA.",
       "grade": "bronze",
-      "guide": "Work toward Catch Me If You Can by meeting its official condition: Make an unscheduled departure at VCIA. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "The guide identifies a departing passenger plane connected to a terminal at Vice City International Airport as the target. Planes already sitting elsewhere on the airfield do not count for this method.",
       "kinds": [
         "story"
       ],
       "guideDetails": {
-        "summary": "Work toward Catch Me If You Can by meeting its official condition: Make an unscheduled departure at VCIA. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "The guide identifies a departing passenger plane connected to a terminal at Vice City International Airport as the target. Planes already sitting elsewhere on the airfield do not count for this method.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Make an unscheduled departure at VCIA.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Go to Vice City International Airport and look for a passenger jet docked at a departure terminal. (PowerPyx).",
+          "Steal that terminal-connected aircraft and take off to trigger the unscheduled departure. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -897,21 +1284,32 @@
       "name": "Challenging Tank",
       "description": "Kinda hot in these Rhinos.",
       "grade": "bronze",
-      "guide": "Work toward Challenging Tank by meeting its official condition: Kinda hot in these Rhinos. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "The Rhino tanks are located at Mile Zero Air Station on the island at the southwest edge of Mariana County. The guide recommends driving through the gate or using a nearby stunt jump to enter, then taking a tank.",
       "kinds": [
         "story"
       ],
       "guideDetails": {
-        "summary": "Work toward Challenging Tank by meeting its official condition: Kinda hot in these Rhinos. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "The Rhino tanks are located at Mile Zero Air Station on the island at the southwest edge of Mariana County. The guide recommends driving through the gate or using a nearby stunt jump to enter, then taking a tank.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Kinda hot in these Rhinos.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Travel to Mile Zero Air Station in southwest Mariana County. (PowerPyx).",
+          "Enter the base and reach the Rhino tanks in its southern area. (PowerPyx).",
+          "Steal a tank; the guide’s listed unlock condition is obtaining the military tank. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -921,21 +1319,32 @@
       "name": "Sneakthief",
       "description": "Rob a jewelry store without being detected.",
       "grade": "bronze",
-      "guide": "Work toward Sneakthief by meeting its official condition: Rob a jewelry store without being detected. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "Silent entry depends on the Snap Gun, unlocked through Yasmani’s Jewelry Jobs in Chapter 3. Then rob a marked jewelry store without raising its detection alarm.",
       "kinds": [
         "story"
       ],
       "guideDetails": {
-        "summary": "Work toward Sneakthief by meeting its official condition: Rob a jewelry store without being detected. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "Silent entry depends on the Snap Gun, unlocked through Yasmani’s Jewelry Jobs in Chapter 3. Then rob a marked jewelry store without raising its detection alarm.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Rob a jewelry store without being detected.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Complete Yasmani’s Jewelry Jobs in Chapter 3 to unlock the Snap Gun and jewelry robberies. (PowerPyx).",
+          "Choose a jewelry store and use the Snap Gun on alarmed doors. (PowerPyx).",
+          "Take the goods without being detected; escape after the robbery if needed. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -945,21 +1354,32 @@
       "name": "Maximum Withdrawal",
       "description": "Rob 5 Bank Vaults and escape.",
       "grade": "silver",
-      "guide": "Work toward Maximum Withdrawal by meeting its official condition: Rob 5 Bank Vaults and escape. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "The eight large bank jobs unlock through the Chapter 4 optional mission That’s Where The Money Is… The trophy needs five successful vault robberies and escapes; the guide suggests using a fast motorcycle to flee and changing vehicles afterward.",
       "kinds": [
         "activities"
       ],
       "guideDetails": {
-        "summary": "Work toward Maximum Withdrawal by meeting its official condition: Rob 5 Bank Vaults and escape. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "The eight large bank jobs unlock through the Chapter 4 optional mission That’s Where The Money Is… The trophy needs five successful vault robberies and escapes; the guide suggests using a fast motorcycle to flee and changing vehicles afterward.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Rob 5 Bank Vaults and escape.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Complete That’s Where The Money Is… to unlock bank vault jobs. (PowerPyx).",
+          "Rob any five of the eight vaults and leave the red heat radius to count each escape. (PowerPyx).",
+          "A fast motorcycle can help through traffic; switch vehicles after leaving the immediate area. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -969,21 +1389,31 @@
       "name": "A Classic Blitz Play",
       "description": "Rob an Armored Truck and escape.",
       "grade": "bronze",
-      "guide": "Work toward A Classic Blitz Play by meeting its official condition: Rob an Armored Truck and escape. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "The Chapter 4 optional mission That’s Where The Money Is… introduces armored truck and bank robberies. PowerPyx says vault robbery counts for this too; an early alternative is stopping a street armored truck and opening its rear with a sticky bomb.",
       "kinds": [
         "story"
       ],
       "guideDetails": {
-        "summary": "Work toward A Classic Blitz Play by meeting its official condition: Rob an Armored Truck and escape. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "The Chapter 4 optional mission That’s Where The Money Is… introduces armored truck and bank robberies. PowerPyx says vault robbery counts for this too; an early alternative is stopping a street armored truck and opening its rear with a sticky bomb.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Rob an Armored Truck and escape.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Unlock the activity through That’s Where The Money Is… or intercept an armored truck near a bank. (PowerPyx).",
+          "Take the cash, then leave the red heat radius (or use a Pay ’n’ Spray) to complete the escape condition. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -993,21 +1423,31 @@
       "name": "The Goodtime State",
       "description": "Explore all of Leonida.",
       "grade": "bronze",
-      "guide": "Work toward The Goodtime State by meeting its official condition: Explore all of Leonida. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "The map must be completely unfogged. PowerPyx recommends flying over the remaining black areas in an aircraft so the undiscovered regions reveal efficiently.",
       "kinds": [
         "collectibles"
       ],
       "guideDetails": {
-        "summary": "Work toward The Goodtime State by meeting its official condition: Explore all of Leonida. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "The map must be completely unfogged. PowerPyx recommends flying over the remaining black areas in an aircraft so the undiscovered regions reveal efficiently.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Explore all of Leonida.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Open the map and identify regions still covered by black fog. (PowerPyx).",
+          "Use a plane to cross the remaining areas until the full Leonida map is revealed. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -1017,21 +1457,32 @@
       "name": "Pest Control",
       "description": "Rob an Illegal Operation belonging to each gang.",
       "grade": "bronze",
-      "guide": "Work toward Pest Control by meeting its official condition: Rob an Illegal Operation belonging to each gang. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "The game has nine gangs and 39 Illegal Operations. One operation from each gang is enough for this trophy; the guide says the operations appear as yellow map icons and can be tracked under Progress > Gangs.",
       "kinds": [
         "collectibles"
       ],
       "guideDetails": {
-        "summary": "Work toward Pest Control by meeting its official condition: Rob an Illegal Operation belonging to each gang. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "The game has nine gangs and 39 Illegal Operations. One operation from each gang is enough for this trophy; the guide says the operations appear as yellow map icons and can be tracked under Progress > Gangs.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Rob an Illegal Operation belonging to each gang.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Find a yellow Illegal Operation marker and complete one robbery for a gang. (PowerPyx).",
+          "Repeat for all nine gangs, checking Progress > Gangs to see which groups remain. (PowerPyx).",
+          "Do not stop at nine total if one gang is represented more than once; each gang needs its own operation. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -1041,21 +1492,31 @@
       "name": "In The Beginning…",
       "description": "Enjoy a cocktail with a view on Ocean Beach.",
       "grade": "bronze",
-      "guide": "Work toward In The Beginning… by meeting its official condition: Enjoy a cocktail with a view on Ocean Beach. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "The requirement names a cocktail and an Ocean Beach view, but the PowerPyx trophy entry marks the trigger as currently unknown. The exact venue and interaction have not been verified there.",
       "kinds": [
         "story"
       ],
       "guideDetails": {
-        "summary": "Work toward In The Beginning… by meeting its official condition: Enjoy a cocktail with a view on Ocean Beach. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "The requirement names a cocktail and an Ocean Beach view, but the PowerPyx trophy entry marks the trigger as currently unknown. The exact venue and interaction have not been verified there.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Enjoy a cocktail with a view on Ocean Beach.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Explore Ocean Beach and look for an available drink interaction with an ocean-facing view. (PowerPyx).",
+          "The source does not confirm the precise bar, time, or interaction; check the trophy tracker after trying a fitting location. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -1065,21 +1526,32 @@
       "name": "Capital Offense",
       "description": "Smash your way out of a vehicle showroom in classic style.",
       "grade": "bronze",
-      "guide": "Work toward Capital Offense by meeting its official condition: Smash your way out of a vehicle showroom in classic style. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "The guide describes this as taking a blue Banshee from the showroom south of Vice City and driving it through the window. The Key Cloner, gained during Randy’s Chapter 3 Zorrusso mission, is needed to access the car.",
       "kinds": [
         "story"
       ],
       "guideDetails": {
-        "summary": "Work toward Capital Offense by meeting its official condition: Smash your way out of a vehicle showroom in classic style. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "The guide describes this as taking a blue Banshee from the showroom south of Vice City and driving it through the window. The Key Cloner, gained during Randy’s Chapter 3 Zorrusso mission, is needed to access the car.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Smash your way out of a vehicle showroom in classic style.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Complete Clonin’ Keys, Makin’ GS to obtain the Key Cloner. (PowerPyx).",
+          "Go to the vehicle showroom south of Vice City and hack the blue Banshee. (PowerPyx).",
+          "Drive straight through the showroom window, then continue down the street for the delayed unlock. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -1089,21 +1561,32 @@
       "name": "Let’s Go Bowling",
       "description": "Follow-through at the Kolt & Associates' bowling alley.",
       "grade": "bronze",
-      "guide": "Work toward Let’s Go Bowling by meeting its official condition: Follow-through at the Kolt & Associates' bowling alley. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "Kingpin Bowling is a Gang Operation in Port Gellhorn, also visited during the Chapter 2 optional mission Hit Kingpin Bowling. Collect three marked valuables, including the safe; the trophy only unlocks after escaping the police.",
       "kinds": [
         "story"
       ],
       "guideDetails": {
-        "summary": "Work toward Let’s Go Bowling by meeting its official condition: Follow-through at the Kolt & Associates' bowling alley. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "Kingpin Bowling is a Gang Operation in Port Gellhorn, also visited during the Chapter 2 optional mission Hit Kingpin Bowling. Collect three marked valuables, including the safe; the trophy only unlocks after escaping the police.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Follow-through at the Kolt & Associates' bowling alley.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Buy Sticky Bombs from Ammu-Nation before entering, to open the safe. (PowerPyx).",
+          "At Kingpin Bowling, collect the luxury watch in the southeast office, the Gutterball Moreland 850 shotgun in the northeast corner, and the safe contents in the northeast hallway. (PowerPyx).",
+          "Escape the police after collecting the three valuables; defeating every enemy is unnecessary. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -1113,21 +1596,32 @@
       "name": "Personal Best",
       "description": "A partnership with mass appeal.",
       "grade": "bronze",
-      "guide": "Work toward Personal Best by meeting its official condition: A partnership with mass appeal. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "Both Jason and Lucia need maximum Strength at the same time. PowerPyx says this becomes manageable after Coffee Break, when the characters can be called together and one can train while the other completes training automatically.",
       "kinds": [
         "activities"
       ],
       "guideDetails": {
-        "summary": "Work toward Personal Best by meeting its official condition: A partnership with mass appeal. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "Both Jason and Lucia need maximum Strength at the same time. PowerPyx says this becomes manageable after Coffee Break, when the characters can be called together and one can train while the other completes training automatically.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: A partnership with mass appeal.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Complete Coffee Break to unlock character switching and partner free roam. (PowerPyx).",
+          "Check each character’s Strength from Touchpad > Jason & Lucia. (PowerPyx).",
+          "Work out at a fitness club with both characters together until both Strength stats are maxed. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -1137,21 +1631,32 @@
       "name": "Actions Speak Louder",
       "description": "Choices made (for better or worse).",
       "grade": "bronze",
-      "guide": "Work toward Actions Speak Louder by meeting its official condition: Choices made (for better or worse). The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "The guide identifies a counter of 500 actions that affect Criminal Profile. It recommends enabling Criminal Profile notifications in the UI settings so you can see qualifying actions as they happen.",
       "kinds": [
         "activities"
       ],
       "guideDetails": {
-        "summary": "Work toward Actions Speak Louder by meeting its official condition: Choices made (for better or worse). The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "The guide identifies a counter of 500 actions that affect Criminal Profile. It recommends enabling Criminal Profile notifications in the UI settings so you can see qualifying actions as they happen.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Choices made (for better or worse).",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Turn on Criminal Profile notifications in Settings > UI. (PowerPyx).",
+          "Perform actions that change your Criminal Profile and use the trophy tracker to monitor the count. (PowerPyx).",
+          "Continue until the counter reaches 500. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -1161,21 +1666,31 @@
       "name": "Bad Luck, I Guess",
       "description": "Second time's the charm.",
       "grade": "bronze",
-      "guide": "Work toward Bad Luck, I Guess by meeting its official condition: Second time's the charm. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "PowerPyx lists this hidden trophy’s trigger as unknown and only suggests a possible connection to the Payday Loans store from the prologue. That connection is not confirmed, so the route remains uncertain.",
       "kinds": [
         "story"
       ],
       "guideDetails": {
-        "summary": "Work toward Bad Luck, I Guess by meeting its official condition: Second time's the charm. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "PowerPyx lists this hidden trophy’s trigger as unknown and only suggests a possible connection to the Payday Loans store from the prologue. That connection is not confirmed, so the route remains uncertain.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Second time's the charm.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "The source does not confirm an unlock condition; check the hidden trophy after story and optional activities. (PowerPyx).",
+          "If investigating the reported lead, revisit the prologue Payday Loans location, but treat it as speculation rather than a verified method. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -1185,21 +1700,31 @@
       "name": "The Truth Is Out There",
       "description": "What the hell just happened?",
       "grade": "bronze",
-      "guide": "Work toward The Truth Is Out There by meeting its official condition: What the hell just happened? The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "This hidden trophy’s trigger is not confirmed. PowerPyx notes a possible UFO questline link, but labels the method as uncertain.",
       "kinds": [
         "activities"
       ],
       "guideDetails": {
-        "summary": "Work toward The Truth Is Out There by meeting its official condition: What the hell just happened? The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "This hidden trophy’s trigger is not confirmed. PowerPyx notes a possible UFO questline link, but labels the method as uncertain.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: What the hell just happened?",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "The exact activity and location are unverified in the available guide. (PowerPyx).",
+          "Explore UFO-related events if pursuing the source’s unconfirmed lead, then check the trophy tracker. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -1209,21 +1734,31 @@
       "name": "Ten Pin",
       "description": "Bowl 'em over with a melee drive-by.",
       "grade": "bronze",
-      "guide": "Work toward Ten Pin by meeting its official condition: Bowl 'em over with a melee drive-by. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "The PowerPyx entry marks this as unknown and only suspects a motorcycle melee attack on an enemy. Because that method is not verified, treat it as a lead rather than a guaranteed route.",
       "kinds": [
         "activities"
       ],
       "guideDetails": {
-        "summary": "Work toward Ten Pin by meeting its official condition: Bowl 'em over with a melee drive-by. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "The PowerPyx entry marks this as unknown and only suspects a motorcycle melee attack on an enemy. Because that method is not verified, treat it as a lead rather than a guaranteed route.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Bowl 'em over with a melee drive-by.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "The guide’s tentative lead is to attack an enemy with a melee move while riding a motorcycle. (PowerPyx).",
+          "The exact button sequence and unlock trigger remain unconfirmed; check the trophy tracker after attempts. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -1233,21 +1768,32 @@
       "name": "Dime on the Dollar",
       "description": "Earn $250,000 laundering Marked Bills through your contacts.",
       "grade": "bronze",
-      "guide": "Work toward Dime on the Dollar by meeting its official condition: Earn $250,000 laundering Marked Bills through your contacts. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "Marked Bills are laundered through contacts after the Chapter 3 mission Credit Check unlocks the Dye Pack Jammer. The guide routes the money through Yasmani and says the trophy counter tracks a total of $250,000 processed.",
       "kinds": [
         "collectibles"
       ],
       "guideDetails": {
-        "summary": "Work toward Dime on the Dollar by meeting its official condition: Earn $250,000 laundering Marked Bills through your contacts. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "Marked Bills are laundered through contacts after the Chapter 3 mission Credit Check unlocks the Dye Pack Jammer. The guide routes the money through Yasmani and says the trophy counter tracks a total of $250,000 processed.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Earn $250,000 laundering Marked Bills through your contacts.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Complete Credit Check (Meet Raul’s Crew) in Chapter 3 to obtain the Dye Pack Jammer. (PowerPyx).",
+          "Rob banks or Payday Loans for marked bills and take them to a fence; Yasmani is one contact who launders them. (PowerPyx).",
+          "Repeat until $250,000 has been laundered; monitor the trophy counter. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -1257,21 +1803,31 @@
       "name": "Treat Yo Self",
       "description": "Spend $100,000 across all shops.",
       "grade": "bronze",
-      "guide": "Work toward Treat Yo Self by meeting its official condition: Spend $100,000 across all shops. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "This is cumulative spending across shop types, not a single purchase. The guide recommends costly gun purchases, vehicle modifications, and tattoos as quick ways to build the $100,000 total.",
       "kinds": [
         "collectibles"
       ],
       "guideDetails": {
-        "summary": "Work toward Treat Yo Self by meeting its official condition: Spend $100,000 across all shops. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "This is cumulative spending across shop types, not a single purchase. The guide recommends costly gun purchases, vehicle modifications, and tattoos as quick ways to build the $100,000 total.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Spend $100,000 across all shops.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Spend money at shops across the map; purchases from different shop types all contribute. (PowerPyx).",
+          "Use expensive weapons, vehicle upgrades, or tattoos to reach $100,000 total. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -1281,21 +1837,32 @@
       "name": "Little Boxes",
       "description": "Purchase all garage properties.",
       "grade": "bronze",
-      "guide": "Work toward Little Boxes by meeting its official condition: Purchase all garage properties. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "Only eight garages bought with money count; story garages are excluded. PowerPyx reports that purchases open after Daily Driver in Chapter 2 and cost $160,000 combined.",
       "kinds": [
         "collectibles"
       ],
       "guideDetails": {
-        "summary": "Work toward Little Boxes by meeting its official condition: Purchase all garage properties. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "Only eight garages bought with money count; story garages are excluded. PowerPyx reports that purchases open after Daily Driver in Chapter 2 and cost $160,000 combined.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Purchase all garage properties.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Complete Daily Driver in Chapter 2 to make garage purchases available. (PowerPyx).",
+          "Buy all eight purchasable garage properties; story-provided garages do not count. (PowerPyx).",
+          "Budget $160,000 in total for the listed properties. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
@@ -1305,21 +1872,32 @@
       "name": "On the Spot",
       "description": "Register 10 vehicles to the Scooter Bros app.",
       "grade": "bronze",
-      "guide": "Work toward On the Spot by meeting its official condition: Register 10 vehicles to the Scooter Bros app. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "guide": "The Scooter Bros app arrives after the Chapter 2 mission Moses. The guide says registering a stolen vehicle requires taking it to Moses, so complete ten separate registrations through the app.",
       "kinds": [
         "collectibles"
       ],
       "guideDetails": {
-        "summary": "Work toward On the Spot by meeting its official condition: Register 10 vehicles to the Scooter Bros app. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "summary": "The Scooter Bros app arrives after the Chapter 2 mission Moses. The guide says registering a stolen vehicle requires taking it to Moses, so complete ten separate registrations through the app.",
         "steps": [
-          "Use the in-game objective or activity corresponding to: Register 10 vehicles to the Scooter Bros app.",
-          "Complete the stated condition and wait for the trophy notification.",
-          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+          "Complete Moses (Take A Vehicle to Moses) in Chapter 2 to install Scooter Bros. (PowerPyx).",
+          "Steal an eligible vehicle and take it to Moses to register it in the app. (PowerPyx).",
+          "Repeat with ten vehicles and confirm the total in the tracker. (PowerPyx)."
         ],
         "sources": [
           {
-            "name": "Exophase",
-            "supports": "Official trophy name, description, and grade"
+            "name": "PowerPyx",
+            "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+            "supports": "Trophy-specific unlock timing, route, counts, location, or the stated uncertainty."
+          },
+          {
+            "name": "Planet GTA 6",
+            "url": "https://www.planetgta6.com/en/gta-6-trophies/",
+            "supports": "The reported trophy requirement and cross-check against the 55-entry list."
+          },
+          {
+            "name": "Output Lag",
+            "url": "https://outputlag.com/guides/gta-6-trophy-list/",
+            "supports": "Launch-version trophy list and reported completion context."
           }
         ]
       }
