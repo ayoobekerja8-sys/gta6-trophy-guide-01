@@ -8,1240 +8,1322 @@
       "name": "Vice Got a Price!",
       "description": "Congratulations! You're a Leonida Legend.",
       "grade": "platinum",
-      "guide": "Earn every other trophy on this list, then the platinum unlocks automatically. Keep a chapter save before the ending and prioritize the Chapter 1 meditation before its balcony opportunity disappears.",
-      "hidden": false,
-      "missable": false,
-      "kind": "misc",
-      "sources": [
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Vice Got a Price! by meeting its official condition: Congratulations! You're a Leonida Legend. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "activities"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Vice Got a Price! by meeting its official condition: Congratulations! You're a Leonida Legend. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Congratulations! You're a Leonida Legend.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 2,
       "name": "Just Like Paradise",
       "description": "Complete Gone Fishing.",
       "grade": "bronze",
-      "guide": "Complete the opening story mission, Gone Fishing, by following its objectives through to the mission-complete screen. This is a story unlock and cannot be earned before starting a new game.",
-      "hidden": true,
-      "missable": false,
-      "kind": "story",
-      "sources": [
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Just Like Paradise by meeting its official condition: Complete Gone Fishing. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "story"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Just Like Paradise by meeting its official condition: Complete Gone Fishing. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Complete Gone Fishing.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 3,
       "name": "Paradise Lost",
       "description": "Complete Chapter 1.",
       "grade": "bronze",
-      "guide": "Finish the Chapter 1 story arc and let the game register the chapter completion. Before moving on, visit Lucia's balcony meditation spot and make a manual save, since that opportunity is reported to disappear after Chapter 1.",
-      "hidden": true,
-      "missable": false,
-      "kind": "story",
-      "sources": [
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Paradise Lost by meeting its official condition: Complete Chapter 1. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "story"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Paradise Lost by meeting its official condition: Complete Chapter 1. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Complete Chapter 1.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 4,
       "name": "T**s Ass Drug Money",
       "description": "Complete Chapter 2.",
       "grade": "bronze",
-      "guide": "Play through the Chapter 2 missions until the chapter completion is recorded. The trophy is tied to story progress, so keep a separate chapter save if you want to revisit the chapter later.",
-      "hidden": true,
-      "missable": false,
-      "kind": "story",
-      "sources": [
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward T**s Ass Drug Money by meeting its official condition: Complete Chapter 2. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "story"
+      ],
+      "guideDetails": {
+        "summary": "Work toward T**s Ass Drug Money by meeting its official condition: Complete Chapter 2. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Complete Chapter 2.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 5,
       "name": "Vice City, Baby!",
       "description": "Complete Chapter 3.",
       "grade": "bronze",
-      "guide": "Complete the Chapter 3 story arc. Follow the active story objectives and allow the end-of-chapter transition to finish before quitting.",
-      "hidden": true,
-      "missable": false,
-      "kind": "story",
-      "sources": [
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Vice City, Baby! by meeting its official condition: Complete Chapter 3. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "story"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Vice City, Baby! by meeting its official condition: Complete Chapter 3. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Complete Chapter 3.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 6,
       "name": "Top Of The World, Ma",
       "description": "Complete Chapter 4.",
       "grade": "bronze",
-      "guide": "Complete the Chapter 4 story arc and wait for the completion notification. Keep your own save from the beginning of the chapter in case you want to revisit its missions.",
-      "hidden": true,
-      "missable": false,
-      "kind": "story",
-      "sources": [
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Top Of The World, Ma by meeting its official condition: Complete Chapter 4. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "story"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Top Of The World, Ma by meeting its official condition: Complete Chapter 4. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Complete Chapter 4.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 7,
       "name": "You Gotta Know When to Get Off",
       "description": "Complete the final mission.",
       "grade": "gold",
-      "guide": "Finish the final mission after completing the preceding story chapters. Save manually before launching it, because the game is reported to have neither mission replay nor New Game Plus.",
-      "hidden": true,
-      "missable": false,
-      "kind": "story",
-      "sources": [
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward You Gotta Know When to Get Off by meeting its official condition: Complete the final mission. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "story"
+      ],
+      "guideDetails": {
+        "summary": "Work toward You Gotta Know When to Get Off by meeting its official condition: Complete the final mission. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Complete the final mission.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 8,
       "name": "Trust",
       "description": "Complete Breakfast Run.",
       "grade": "bronze",
-      "guide": "Complete Breakfast Run when it appears in the story sequence. Finish the mission normally and wait for the result screen to award the trophy.",
-      "hidden": true,
-      "missable": false,
-      "kind": "story",
-      "sources": [
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Trust by meeting its official condition: Complete Breakfast Run. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "story"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Trust by meeting its official condition: Complete Breakfast Run. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Complete Breakfast Run.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 9,
       "name": "Break the Bank",
       "description": "Complete The Cartel Heist.",
       "grade": "bronze",
-      "guide": "Complete The Cartel Heist as a story mission. Follow its objectives through the escape and let the mission wrap before leaving the game.",
-      "hidden": true,
-      "missable": false,
-      "kind": "story",
-      "sources": [
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Break the Bank by meeting its official condition: Complete The Cartel Heist. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "story"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Break the Bank by meeting its official condition: Complete The Cartel Heist. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Complete The Cartel Heist.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 10,
       "name": "Family Matters",
       "description": "Complete Child's Play.",
       "grade": "bronze",
-      "guide": "Finish Child's Play in the main story. The trophy is awarded on mission completion; use a chapter save if you want a fallback point.",
-      "hidden": true,
-      "missable": false,
-      "kind": "story",
-      "sources": [
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Family Matters by meeting its official condition: Complete Child's Play. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "story"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Family Matters by meeting its official condition: Complete Child's Play. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Complete Child's Play.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 11,
       "name": "DWNFALL",
       "description": "Complete Headliners.",
       "grade": "bronze",
-      "guide": "Complete Headliners during the story. Stay with the mission objectives until the final completion state registers.",
-      "hidden": true,
-      "missable": false,
-      "kind": "story",
-      "sources": [
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward DWNFALL by meeting its official condition: Complete Headliners. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "story"
+      ],
+      "guideDetails": {
+        "summary": "Work toward DWNFALL by meeting its official condition: Complete Headliners. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Complete Headliners.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 12,
       "name": "Hi-Jacked",
       "description": "Complete VCIA Takedown.",
       "grade": "bronze",
-      "guide": "Finish VCIA Takedown as part of the story. Keep a save from the chapter start if you want to replay the sequence, as the game has no mission replay.",
-      "hidden": true,
-      "missable": false,
-      "kind": "story",
-      "sources": [
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Hi-Jacked by meeting its official condition: Complete VCIA Takedown. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "story"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Hi-Jacked by meeting its official condition: Complete VCIA Takedown. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Complete VCIA Takedown.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 13,
       "name": "Snow Storm",
       "description": "Complete Operation Savage Glory.",
       "grade": "bronze",
-      "guide": "Complete Operation Savage Glory and allow its mission-complete screen to finish. A manual chapter save is the only reliable fallback for revisiting story content.",
-      "hidden": true,
-      "missable": false,
-      "kind": "story",
-      "sources": [
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Snow Storm by meeting its official condition: Complete Operation Savage Glory. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "story"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Snow Storm by meeting its official condition: Complete Operation Savage Glory. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Complete Operation Savage Glory.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 14,
       "name": "A Long Road",
       "description": "Attain 100% Completion.",
       "grade": "gold",
-      "guide": "Use the in-game 100% checklist and finish every one of its 35 required tasks. Work through missions, side content, activities and collection goals, checking the game's own completion tracker as you go.",
-      "hidden": false,
-      "missable": false,
-      "kind": "misc",
-      "sources": [
-        {
-          "name": "KeenGamer",
-          "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"
-        },
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward A Long Road by meeting its official condition: Attain 100% Completion. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "activities"
+      ],
+      "guideDetails": {
+        "summary": "Work toward A Long Road by meeting its official condition: Attain 100% Completion. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Attain 100% Completion.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 15,
       "name": "Cunning Stunts",
       "description": "Complete 250 Stunts.",
       "grade": "silver",
-      "guide": "Complete 250 stunt activities across Leonida. Use safe run-ups and varied locations, and track your total in the game's activity progress rather than repeating a stunt that does not count.",
-      "hidden": false,
-      "missable": false,
-      "kind": "activity",
-      "sources": [
-        {
-          "name": "KeenGamer",
-          "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"
-        },
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Cunning Stunts by meeting its official condition: Complete 250 Stunts. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "activities"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Cunning Stunts by meeting its official condition: Complete 250 Stunts. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Complete 250 Stunts.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 16,
       "name": "Master of None",
       "description": "Try each type of activity once.",
       "grade": "bronze",
-      "guide": "Try each activity type at least once. Visit the activity markers shown in the game and complete one valid attempt in every distinct category the activity tracker recognizes.",
-      "hidden": false,
-      "missable": false,
-      "kind": "activity",
-      "sources": [
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        }
-      ]
+      "guide": "Work toward Master of None by meeting its official condition: Try each type of activity once. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "activities"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Master of None by meeting its official condition: Try each type of activity once. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Try each type of activity once.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 17,
       "name": "The Shootist",
       "description": "Earn a gold medal in all Shooting Range challenges.",
       "grade": "silver",
-      "guide": "Earn gold in every one of the 42 Shooting Range challenges. Return to the range to retry weak events, adjusting aim and timing until each challenge's gold requirement is met.",
-      "hidden": false,
-      "missable": false,
-      "kind": "combat",
-      "sources": [
-        {
-          "name": "KeenGamer",
-          "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"
-        },
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward The Shootist by meeting its official condition: Earn a gold medal in all Shooting Range challenges. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "activities"
+      ],
+      "guideDetails": {
+        "summary": "Work toward The Shootist by meeting its official condition: Earn a gold medal in all Shooting Range challenges. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Earn a gold medal in all Shooting Range challenges.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 18,
       "name": "Top Fun",
       "description": "Win a Top Fun Drone Race at every location.",
       "grade": "bronze",
-      "guide": "Win a Top Fun Drone Race at every location where the activity is offered. Check the map and activity list for any remaining race, then finish each one in first place.",
-      "hidden": false,
-      "missable": false,
-      "kind": "activity",
-      "sources": [
-        {
-          "name": "OutputLag",
-          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
-        },
-        {
-          "name": "planetgta6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Top Fun by meeting its official condition: Win a Top Fun Drone Race at every location. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "activities"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Top Fun by meeting its official condition: Win a Top Fun Drone Race at every location. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Win a Top Fun Drone Race at every location.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 19,
       "name": "Earn Cash, Not Kudos",
       "description": "Win 20 different races.",
       "grade": "bronze",
-      "guide": "Win 20 different race events, rather than farming the same event. Use the map or activity list to find distinct races and confirm each new win has registered.",
-      "hidden": false,
-      "missable": false,
-      "kind": "activity",
-      "sources": [
-        {
-          "name": "OutputLag",
-          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
-        },
-        {
-          "name": "planetgta6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Earn Cash, Not Kudos by meeting its official condition: Win 20 different races. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "activities"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Earn Cash, Not Kudos by meeting its official condition: Win 20 different races. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Win 20 different races.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 20,
       "name": "Baited My Tackle",
       "description": "Beat Cal in a fishing challenge.",
       "grade": "bronze",
-      "guide": "Find Cal and enter one of his fishing challenges, then beat his result. Follow the challenge's catch and timing rules and verify the win before leaving the activity.",
-      "hidden": false,
-      "missable": false,
-      "kind": "activity",
-      "sources": [
-        {
-          "name": "OutputLag",
-          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
-        },
-        {
-          "name": "planetgta6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Baited My Tackle by meeting its official condition: Beat Cal in a fishing challenge. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "activities"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Baited My Tackle by meeting its official condition: Beat Cal in a fishing challenge. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Beat Cal in a fishing challenge.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 21,
       "name": "Stick Fiddler",
       "description": "Complete an arcade game.",
       "grade": "bronze",
-      "guide": "Play any arcade cabinet and finish one complete game. Choose a cabinet you can reliably complete, then stay through its end state so the activity counts.",
-      "hidden": false,
-      "missable": false,
-      "kind": "activity",
-      "sources": [
-        {
-          "name": "OutputLag",
-          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
-        },
-        {
-          "name": "planetgta6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Stick Fiddler by meeting its official condition: Complete an arcade game. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "activities"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Stick Fiddler by meeting its official condition: Complete an arcade game. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Complete an arcade game.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 22,
       "name": "Road to Rehabilitation",
       "description": "Complete the final mission for Andy.",
       "grade": "bronze",
-      "guide": "Complete Andy's final mission after advancing his stranger strand. Meet Andy at the strand's next available marker and finish its concluding objective; keep chapter saves if you need to revisit story availability.",
-      "hidden": true,
-      "missable": false,
-      "kind": "story",
-      "sources": [
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        }
-      ]
+      "guide": "Work toward Road to Rehabilitation by meeting its official condition: Complete the final mission for Andy. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "story"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Road to Rehabilitation by meeting its official condition: Complete the final mission for Andy. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Complete the final mission for Andy.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 23,
       "name": "This Was No Boat Accident",
       "description": "Complete the final mission for Kenton.",
       "grade": "bronze",
-      "guide": "Advance Kenton's stranger strand through to its final mission and complete it. Follow the strand markers as they appear and wait for the completion state to register.",
-      "hidden": true,
-      "missable": false,
-      "kind": "story",
-      "sources": [
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        }
-      ]
+      "guide": "Work toward This Was No Boat Accident by meeting its official condition: Complete the final mission for Kenton. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "story"
+      ],
+      "guideDetails": {
+        "summary": "Work toward This Was No Boat Accident by meeting its official condition: Complete the final mission for Kenton. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Complete the final mission for Kenton.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 24,
       "name": "The Lone Rider",
       "description": "Complete the final mission for Billy.",
       "grade": "bronze",
-      "guide": "Progress Billy's strand until its concluding mission becomes available, then finish that mission. Check the map for the strand marker after story progress or time has advanced.",
-      "hidden": true,
-      "missable": false,
-      "kind": "story",
-      "sources": [
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        }
-      ]
+      "guide": "Work toward The Lone Rider by meeting its official condition: Complete the final mission for Billy. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "story"
+      ],
+      "guideDetails": {
+        "summary": "Work toward The Lone Rider by meeting its official condition: Complete the final mission for Billy. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Complete the final mission for Billy.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 25,
       "name": "Strangers & Freaks",
       "description": "Complete 8 mission strands for strangers across the state of Leonida.",
       "grade": "silver",
-      "guide": "Complete eight different stranger mission strands across Leonida. Start available stranger encounters from their map markers and finish each strand's final objective, keeping a list so you do not count a partial strand.",
-      "hidden": false,
-      "missable": false,
-      "kind": "activity",
-      "sources": [
-        {
-          "name": "KeenGamer",
-          "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"
-        },
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Strangers & Freaks by meeting its official condition: Complete 8 mission strands for strangers across the state of Leonida. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "story"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Strangers & Freaks by meeting its official condition: Complete 8 mission strands for strangers across the state of Leonida. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Complete 8 mission strands for strangers across the state of Leonida.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 26,
       "name": "Supply & Demand",
       "description": "Complete the final mission for Randy.",
       "grade": "bronze",
-      "guide": "Continue Randy's stranger strand until its final mission appears, then complete it. Recheck the map after advancing the story if the next strand marker is not currently available.",
-      "hidden": true,
-      "missable": false,
-      "kind": "story",
-      "sources": [
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        }
-      ]
+      "guide": "Work toward Supply & Demand by meeting its official condition: Complete the final mission for Randy. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "story"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Supply & Demand by meeting its official condition: Complete the final mission for Randy. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Complete the final mission for Randy.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 27,
       "name": "Spin On This!",
       "description": "Complete the final mission for Tyrone.",
       "grade": "bronze",
-      "guide": "Work through Tyrone's strand to its final mission and complete the objective. Return to the map after story progress to find any newly opened strand step.",
-      "hidden": true,
-      "missable": false,
-      "kind": "story",
-      "sources": [
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        }
-      ]
+      "guide": "Work toward Spin On This! by meeting its official condition: Complete the final mission for Tyrone. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "story"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Spin On This! by meeting its official condition: Complete the final mission for Tyrone. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Complete the final mission for Tyrone.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 28,
       "name": "Positive Mental Attitude",
       "description": "Meditate at every spot across Leonida.",
       "grade": "bronze",
-      "guide": "Meditate at Lucia's balcony spot during Chapter 1, then visit the other meditation spots across Leonida. This is the only missable reported so far by PowerPyx, KeenGamer and OutputLag (18–19 Nov 2026): the balcony spot is gone after Chapter 1. Keep a manual save at the start of every chapter and before the final mission; the game has no mission replay or New Game Plus.",
-      "hidden": false,
-      "missable": true,
-      "kind": "collectible",
-      "sources": [
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "KeenGamer",
-          "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Positive Mental Attitude by meeting its official condition: Meditate at every spot across Leonida. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "missable",
+        "activities"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Positive Mental Attitude by meeting its official condition: Meditate at every spot across Leonida. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Meditate at every spot across Leonida.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 29,
       "name": "Fair Game",
       "description": "Hunt a unique animal for Bret.",
       "grade": "bronze",
-      "guide": "Find Bret's hunting strand and complete its unique-animal objective. Follow the strand's instructions to locate and hunt the specified animal, then confirm the mission registers as complete.",
-      "hidden": true,
-      "missable": false,
-      "kind": "story",
-      "sources": [
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        },
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        }
-      ]
+      "guide": "Work toward Fair Game by meeting its official condition: Hunt a unique animal for Bret. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "activities"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Fair Game by meeting its official condition: Hunt a unique animal for Bret. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Hunt a unique animal for Bret.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 30,
       "name": "Don't Touch My Deck",
       "description": "Complete 3 Collectible Card sets.",
       "grade": "silver",
-      "guide": "Complete all three collectible card sets. Search Leonida while checking your collection progress, and return to the relevant set tracker to identify which cards remain.",
-      "hidden": false,
-      "missable": false,
-      "kind": "collectible",
-      "sources": [
-        {
-          "name": "KeenGamer",
-          "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"
-        },
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Don't Touch My Deck by meeting its official condition: Complete 3 Collectible Card sets. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "collectibles"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Don't Touch My Deck by meeting its official condition: Complete 3 Collectible Card sets. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Complete 3 Collectible Card sets.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 31,
       "name": "You WAiNKer!",
       "description": "WAiNK It at 100 locations.",
       "grade": "silver",
-      "guide": "Use WAiNK It at 100 locations around Leonida. Activate the feature as you explore and keep an eye on the counted total so you can revisit unrecorded areas.",
-      "hidden": false,
-      "missable": false,
-      "kind": "collectible",
-      "sources": [
-        {
-          "name": "KeenGamer",
-          "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"
-        },
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward You WAiNKer! by meeting its official condition: WAiNK It at 100 locations. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "collectibles"
+      ],
+      "guideDetails": {
+        "summary": "Work toward You WAiNKer! by meeting its official condition: WAiNK It at 100 locations. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: WAiNK It at 100 locations.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 32,
       "name": "One Last Thing",
       "description": "Complete 50 Challenges.",
       "grade": "bronze",
-      "guide": "Complete 50 challenges tracked by the game. Check the challenge list for available objectives and vary your play across exploration, activities and combat until the counter reaches the requirement.",
-      "hidden": false,
-      "missable": false,
-      "kind": "activity",
-      "sources": [
-        {
-          "name": "OutputLag",
-          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
-        },
-        {
-          "name": "planetgta6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward One Last Thing by meeting its official condition: Complete 50 Challenges. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "activities"
+      ],
+      "guideDetails": {
+        "summary": "Work toward One Last Thing by meeting its official condition: Complete 50 Challenges. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Complete 50 Challenges.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 33,
       "name": "Hot Together",
       "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
       "grade": "bronze",
-      "guide": "With your partner present, build a four-star Wanted Level, then break line of sight and escape until the heat is gone. Stay together through the escape so the game counts the partner condition.",
-      "hidden": false,
-      "missable": false,
-      "kind": "combat",
-      "sources": [
-        {
-          "name": "OutputLag",
-          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
-        },
-        {
-          "name": "planetgta6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Hot Together by meeting its official condition: Lose a 4 star Wanted Level with your partner and escape the heat. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "story"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Hot Together by meeting its official condition: Lose a 4 star Wanted Level with your partner and escape the heat. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Lose a 4 star Wanted Level with your partner and escape the heat.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 34,
       "name": "Retail Therapy",
       "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
       "grade": "bronze",
-      "guide": "With your partner, rob three shops consecutively while keeping the Wanted Level active between robberies. Plan a route between shops and evade enough to continue without fully losing the level.",
-      "hidden": false,
-      "missable": false,
-      "kind": "robbery",
-      "sources": [
-        {
-          "name": "OutputLag",
-          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
-        },
-        {
-          "name": "planetgta6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Retail Therapy by meeting its official condition: Rob 3 shops back-to-back with your partner without losing your Wanted Level. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "activities"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Retail Therapy by meeting its official condition: Rob 3 shops back-to-back with your partner without losing your Wanted Level. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 35,
       "name": "Whip It Good",
       "description": "Discover 100 vehicles.",
       "grade": "bronze",
-      "guide": "Discover 100 different vehicles by approaching and identifying new models around the state. Explore varied neighborhoods and roads, since repeated sightings of the same model may not advance the unique discovery count.",
-      "hidden": false,
-      "missable": false,
-      "kind": "exploration",
-      "sources": [
-        {
-          "name": "OutputLag",
-          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
-        },
-        {
-          "name": "planetgta6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Whip It Good by meeting its official condition: Discover 100 vehicles. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "collectibles"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Whip It Good by meeting its official condition: Discover 100 vehicles. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Discover 100 vehicles.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 36,
       "name": "Gunslinger",
       "description": "Take down 5 enemies in a single use of Combat Focus.",
       "grade": "bronze",
-      "guide": "Use Combat Focus during a fight and take down five enemies before that single activation ends. Save the ability for a group, then keep the targets close enough to engage in one use.",
-      "hidden": false,
-      "missable": false,
-      "kind": "combat",
-      "sources": [
-        {
-          "name": "OutputLag",
-          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
-        },
-        {
-          "name": "planetgta6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Gunslinger by meeting its official condition: Take down 5 enemies in a single use of Combat Focus. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "story"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Gunslinger by meeting its official condition: Take down 5 enemies in a single use of Combat Focus. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Take down 5 enemies in a single use of Combat Focus.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 37,
       "name": "Catch Me If You Can",
       "description": "Make an unscheduled departure at VCIA.",
       "grade": "bronze",
-      "guide": "Make an unscheduled departure at VCIA by triggering the airport departure opportunity described by the game. Explore the airport and follow the encounter prompt; this is a hidden story-related trophy, so check available story opportunities before advancing too far.",
-      "hidden": true,
-      "missable": false,
-      "kind": "story",
-      "sources": [
-        {
-          "name": "OutputLag",
-          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
-        },
-        {
-          "name": "planetgta6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Catch Me If You Can by meeting its official condition: Make an unscheduled departure at VCIA. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "story"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Catch Me If You Can by meeting its official condition: Make an unscheduled departure at VCIA. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Make an unscheduled departure at VCIA.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 38,
       "name": "Challenging Tank",
       "description": "Kinda hot in these Rhinos.",
       "grade": "bronze",
-      "guide": "Complete the unusual Rhino tank encounter associated with this hidden trophy. Follow the relevant story or activity prompt and survive the sequence until the trophy registers; keep a chapter save as a fallback for hidden content.",
-      "hidden": true,
-      "missable": false,
-      "kind": "story",
-      "sources": [
-        {
-          "name": "OutputLag",
-          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
-        },
-        {
-          "name": "planetgta6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Challenging Tank by meeting its official condition: Kinda hot in these Rhinos. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "story"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Challenging Tank by meeting its official condition: Kinda hot in these Rhinos. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Kinda hot in these Rhinos.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 39,
       "name": "Sneakthief",
       "description": "Rob a jewelry store without being detected.",
       "grade": "bronze",
-      "guide": "Rob a jewelry store and escape without being detected. Prepare before entering, avoid alerting staff or security, and leave the area unseen; retry from a manual save if detection spoils the attempt.",
-      "hidden": false,
-      "missable": false,
-      "kind": "robbery",
-      "sources": [
-        {
-          "name": "KeenGamer",
-          "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"
-        },
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Sneakthief by meeting its official condition: Rob a jewelry store without being detected. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "story"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Sneakthief by meeting its official condition: Rob a jewelry store without being detected. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Rob a jewelry store without being detected.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 40,
       "name": "Maximum Withdrawal",
       "description": "Rob 5 Bank Vaults and escape.",
       "grade": "silver",
-      "guide": "Rob five bank vaults and escape after each one. Find the vault opportunities around Leonida, complete the robbery and getaway, and track your successful escapes until five are recorded.",
-      "hidden": false,
-      "missable": false,
-      "kind": "robbery",
-      "sources": [
-        {
-          "name": "KeenGamer",
-          "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"
-        },
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Maximum Withdrawal by meeting its official condition: Rob 5 Bank Vaults and escape. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "activities"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Maximum Withdrawal by meeting its official condition: Rob 5 Bank Vaults and escape. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Rob 5 Bank Vaults and escape.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 41,
       "name": "A Classic Blitz Play",
       "description": "Rob an Armored Truck and escape.",
       "grade": "bronze",
-      "guide": "Rob an armored truck, then escape the response. Watch for the opportunity while exploring, secure the marked cash and break pursuit before the game registers a clean getaway.",
-      "hidden": false,
-      "missable": false,
-      "kind": "robbery",
-      "sources": [
-        {
-          "name": "OutputLag",
-          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
-        },
-        {
-          "name": "planetgta6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward A Classic Blitz Play by meeting its official condition: Rob an Armored Truck and escape. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "story"
+      ],
+      "guideDetails": {
+        "summary": "Work toward A Classic Blitz Play by meeting its official condition: Rob an Armored Truck and escape. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Rob an Armored Truck and escape.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 42,
       "name": "The Goodtime State",
       "description": "Explore all of Leonida.",
       "grade": "bronze",
-      "guide": "Explore every area of Leonida until the game's exploration tracker marks them all discovered. Travel through the full map, including less-traveled roads and outlying places, and use the in-game progress list to spot gaps.",
-      "hidden": false,
-      "missable": false,
-      "kind": "exploration",
-      "sources": [
-        {
-          "name": "OutputLag",
-          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
-        },
-        {
-          "name": "planetgta6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward The Goodtime State by meeting its official condition: Explore all of Leonida. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "collectibles"
+      ],
+      "guideDetails": {
+        "summary": "Work toward The Goodtime State by meeting its official condition: Explore all of Leonida. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Explore all of Leonida.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 43,
       "name": "Pest Control",
       "description": "Rob an Illegal Operation belonging to each gang.",
       "grade": "bronze",
-      "guide": "Rob one Illegal Operation belonging to each gang. Locate the operations through the game's activity clues, complete the robbery and getaway, and check off each gang as its operation is recorded.",
-      "hidden": false,
-      "missable": false,
-      "kind": "robbery",
-      "sources": [
-        {
-          "name": "KeenGamer",
-          "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"
-        },
-        {
-          "name": "Planet GTA6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Pest Control by meeting its official condition: Rob an Illegal Operation belonging to each gang. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "collectibles"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Pest Control by meeting its official condition: Rob an Illegal Operation belonging to each gang. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Rob an Illegal Operation belonging to each gang.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 44,
       "name": "In The Beginning…",
       "description": "Enjoy a cocktail with a view on Ocean Beach.",
       "grade": "bronze",
-      "guide": "At Ocean Beach, find a place with a view and enjoy a cocktail. Explore the beachfront for the relevant interaction and complete it; this hidden moment may depend on story availability.",
-      "hidden": true,
-      "missable": false,
-      "kind": "story",
-      "sources": [
-        {
-          "name": "OutputLag",
-          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
-        },
-        {
-          "name": "planetgta6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward In The Beginning… by meeting its official condition: Enjoy a cocktail with a view on Ocean Beach. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "story"
+      ],
+      "guideDetails": {
+        "summary": "Work toward In The Beginning… by meeting its official condition: Enjoy a cocktail with a view on Ocean Beach. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Enjoy a cocktail with a view on Ocean Beach.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 45,
       "name": "Capital Offense",
       "description": "Smash your way out of a vehicle showroom in classic style.",
       "grade": "bronze",
-      "guide": "Smash your way out of a vehicle showroom using the classic break-out method suggested by the trophy. Find the showroom opportunity, trigger the exit sequence and escape the scene.",
-      "hidden": true,
-      "missable": false,
-      "kind": "story",
-      "sources": [
-        {
-          "name": "OutputLag",
-          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
-        },
-        {
-          "name": "planetgta6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Capital Offense by meeting its official condition: Smash your way out of a vehicle showroom in classic style. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "story"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Capital Offense by meeting its official condition: Smash your way out of a vehicle showroom in classic style. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Smash your way out of a vehicle showroom in classic style.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 46,
       "name": "Let’s Go Bowling",
       "description": "Follow-through at the Kolt & Associates' bowling alley.",
       "grade": "bronze",
-      "guide": "Visit the Kolt & Associates bowling alley and complete the bowling follow-through interaction. Stay for the activity's finishing moment so the hidden trophy can register.",
-      "hidden": true,
-      "missable": false,
-      "kind": "story",
-      "sources": [
-        {
-          "name": "OutputLag",
-          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
-        },
-        {
-          "name": "planetgta6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Let’s Go Bowling by meeting its official condition: Follow-through at the Kolt & Associates' bowling alley. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "story"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Let’s Go Bowling by meeting its official condition: Follow-through at the Kolt & Associates' bowling alley. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Follow-through at the Kolt & Associates' bowling alley.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 47,
       "name": "Personal Best",
       "description": "A partnership with mass appeal.",
       "grade": "bronze",
-      "guide": "Reach the hidden partnership moment described by the game, then allow its sequence to finish. Keep chapter saves and revisit story opportunities if it does not trigger on the first pass.",
-      "hidden": true,
-      "missable": false,
-      "kind": "story",
-      "sources": [
-        {
-          "name": "OutputLag",
-          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
-        },
-        {
-          "name": "planetgta6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Personal Best by meeting its official condition: A partnership with mass appeal. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "activities"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Personal Best by meeting its official condition: A partnership with mass appeal. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: A partnership with mass appeal.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 48,
       "name": "Actions Speak Louder",
       "description": "Choices made (for better or worse).",
       "grade": "bronze",
-      "guide": "Make the story or activity choices tracked by this hidden trophy and allow the relevant sequence to resolve. If it does not pop immediately, continue the associated chain and check progress before moving far past the chapter.",
-      "hidden": true,
-      "missable": false,
-      "kind": "story",
-      "sources": [
-        {
-          "name": "OutputLag",
-          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
-        },
-        {
-          "name": "planetgta6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Actions Speak Louder by meeting its official condition: Choices made (for better or worse). The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "activities"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Actions Speak Louder by meeting its official condition: Choices made (for better or worse). The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Choices made (for better or worse).",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 49,
       "name": "Bad Luck, I Guess",
       "description": "Second time's the charm.",
       "grade": "bronze",
-      "guide": "Trigger the strange event, fail or miss its first opportunity, then succeed on the follow-up attempt. Return to the encounter and complete the second try so the hidden condition is satisfied.",
-      "hidden": true,
-      "missable": false,
-      "kind": "story",
-      "sources": [
-        {
-          "name": "OutputLag",
-          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
-        },
-        {
-          "name": "planetgta6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Bad Luck, I Guess by meeting its official condition: Second time's the charm. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "story"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Bad Luck, I Guess by meeting its official condition: Second time's the charm. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Second time's the charm.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 50,
       "name": "The Truth Is Out There",
       "description": "What the hell just happened?",
       "grade": "bronze",
-      "guide": "Explore Leonida and follow the unusual encounter that prompts the game's surprised reaction. Complete the encounter through its final moment; keep chapter saves available in case its opportunity passes.",
-      "hidden": true,
-      "missable": false,
-      "kind": "story",
-      "sources": [
-        {
-          "name": "OutputLag",
-          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
-        },
-        {
-          "name": "planetgta6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward The Truth Is Out There by meeting its official condition: What the hell just happened? The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "activities"
+      ],
+      "guideDetails": {
+        "summary": "Work toward The Truth Is Out There by meeting its official condition: What the hell just happened? The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: What the hell just happened?",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 51,
       "name": "Ten Pin",
       "description": "Bowl 'em over with a melee drive-by.",
       "grade": "bronze",
-      "guide": "Use a melee attack from a moving vehicle to knock down a target. Approach safely, perform the drive-by melee action, and confirm the hit registers without leaving the vehicle first.",
-      "hidden": true,
-      "missable": false,
-      "kind": "story",
-      "sources": [
-        {
-          "name": "OutputLag",
-          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
-        },
-        {
-          "name": "planetgta6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Ten Pin by meeting its official condition: Bowl 'em over with a melee drive-by. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "activities"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Ten Pin by meeting its official condition: Bowl 'em over with a melee drive-by. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Bowl 'em over with a melee drive-by.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 52,
       "name": "Dime on the Dollar",
       "description": "Earn $250,000 laundering Marked Bills through your contacts.",
       "grade": "bronze",
-      "guide": "Earn a cumulative $250,000 by laundering Marked Bills through your contacts. Collect marked cash during play and use the contact laundering option, checking the total until the full amount is credited.",
-      "hidden": false,
-      "missable": false,
-      "kind": "misc",
-      "sources": [
-        {
-          "name": "OutputLag",
-          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
-        },
-        {
-          "name": "planetgta6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Dime on the Dollar by meeting its official condition: Earn $250,000 laundering Marked Bills through your contacts. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "collectibles"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Dime on the Dollar by meeting its official condition: Earn $250,000 laundering Marked Bills through your contacts. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Earn $250,000 laundering Marked Bills through your contacts.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 53,
       "name": "Treat Yo Self",
       "description": "Spend $100,000 across all shops.",
       "grade": "bronze",
-      "guide": "Spend a cumulative $100,000 across shops. Buy items as you play and use a mix of available stores; check spending progress and continue until the tracker credits the total.",
-      "hidden": false,
-      "missable": false,
-      "kind": "activity",
-      "sources": [
-        {
-          "name": "OutputLag",
-          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
-        },
-        {
-          "name": "planetgta6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Treat Yo Self by meeting its official condition: Spend $100,000 across all shops. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "collectibles"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Treat Yo Self by meeting its official condition: Spend $100,000 across all shops. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Spend $100,000 across all shops.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 54,
       "name": "Little Boxes",
       "description": "Purchase all garage properties.",
       "grade": "bronze",
-      "guide": "Purchase every garage property available in the game. Use property listings or map markers to find each garage, buy them as funds allow, and confirm the final purchase is complete.",
-      "hidden": false,
-      "missable": false,
-      "kind": "misc",
-      "sources": [
-        {
-          "name": "OutputLag",
-          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
-        },
-        {
-          "name": "planetgta6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward Little Boxes by meeting its official condition: Purchase all garage properties. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "collectibles"
+      ],
+      "guideDetails": {
+        "summary": "Work toward Little Boxes by meeting its official condition: Purchase all garage properties. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Purchase all garage properties.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     },
     {
       "id": 55,
       "name": "On the Spot",
       "description": "Register 10 vehicles to the Scooter Bros app.",
       "grade": "bronze",
-      "guide": "Register 10 vehicles through the Scooter Bros app. Find distinct vehicles, open the app and complete each registration, checking the app's total before moving on.",
-      "hidden": false,
-      "missable": false,
-      "kind": "activity",
-      "sources": [
-        {
-          "name": "OutputLag",
-          "url": "https://outputlag.com/guides/gta-6-trophy-list/"
-        },
-        {
-          "name": "planetgta6",
-          "url": "https://www.planetgta6.com/en/gta-6-trophies/"
-        },
-        {
-          "name": "Exophase",
-          "url": "https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/"
-        }
-      ]
+      "guide": "Work toward On the Spot by meeting its official condition: Register 10 vehicles to the Scooter Bros app. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+      "kinds": [
+        "collectibles"
+      ],
+      "guideDetails": {
+        "summary": "Work toward On the Spot by meeting its official condition: Register 10 vehicles to the Scooter Bros app. The supplied trophy list does not verify a more exact route, unlock point, or location.",
+        "steps": [
+          "Use the in-game objective or activity corresponding to: Register 10 vehicles to the Scooter Bros app.",
+          "Complete the stated condition and wait for the trophy notification.",
+          "No additional coordinates, route, difficulty, or vehicle class are verified by the supplied official list."
+        ],
+        "sources": [
+          {
+            "name": "Exophase",
+            "supports": "Official trophy name, description, and grade"
+          }
+        ]
+      }
     }
-  ]
+  ],
+  "provenance": "Official names, descriptions and grades are from the make.fun kit starter list."
 }

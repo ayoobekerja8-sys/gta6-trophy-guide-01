@@ -1,6 +1,6 @@
 [
-  { "file": "1-cover.jpg", "path": "/#demo-earned", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-guide.jpg", "path": "/#trophy-28", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-roadmap.jpg", "path": "/#roadmap", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "4-action.jpg", "path": "/#grade=gold&spoilers=on", "viewport": { "width": 1280, "height": 800 } }
+ {"file":"1-cover.jpg","path":"/","hash":"#demo-earned","viewport":{"width":1280,"height":800}},
+ {"file":"2-guide.jpg","path":"/","hash":"#demo-earned","openGuide":28,"viewport":{"width":1280,"height":800}},
+ {"file":"3-roadmap.jpg","path":"/","hash":"#demo-earned","view":"roadmap","viewport":{"width":1280,"height":800}},
+ {"file":"4-action.jpg","path":"/","hash":"#grade=gold&spoilers=on","viewport":{"width":1280,"height":800}}
 ]

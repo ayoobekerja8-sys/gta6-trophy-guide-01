@@ -1,93 +1,112 @@
 {
   "stages": [
     {
-      "title": "01 / Story first",
-      "summary": "Start here: complete all five chapters and the final mission to establish the story baseline. These 12 story trophies follow the main narrative.",
-      "trophyIds": [
+      "id": "opening",
+      "title": "01 · Opening arc",
+      "rationale": "Follow “Complete Gone Fishing” and “Complete Chapter 1” gates.",
+      "risk": "Missable risk: None indicated; mission trophies award on their completion gates.",
+      "ids": [
         2,
         3,
         4,
         5,
         6,
-        7,
         8,
         9,
         10,
         11,
         12,
-        13
+        13,
+        22
       ]
     },
     {
-      "title": "02 / Side missions, strangers & activities",
-      "summary": "After the opening story beats, work through side strands, stranger jobs and activities as they open. Revisit the map as story progress unlocks more steps.",
-      "trophyIds": [
-        16,
-        18,
-        19,
-        20,
-        21,
-        22,
+      "id": "character",
+      "title": "02 · Character strands",
+      "rationale": "Finish “final mission for” each named character.",
+      "risk": "Missable risk: Confirmed for Positive Mental Attitude only; remaining goals show no cutoff in their descriptions.",
+      "ids": [
         23,
         24,
         25,
         26,
         27,
-        29
-      ]
-    },
-    {
-      "title": "03 / Collectibles and counts",
-      "summary": "Once Leonida is open to explore, build progress on meditation, collectibles, vehicles, challenges and Scooter Bros registrations. Visit Lucia’s balcony meditation spot during Chapter 1.",
-      "trophyIds": [
         28,
+        29,
         30,
         31,
         32,
-        35,
-        42,
-        52,
-        53,
-        54,
-        55
+        33,
+        34
       ]
     },
     {
-      "title": "04 / Combat and robberies",
-      "summary": "With the map and activities available, work through combat trials, stunts and robberies. Leave time for the shooting range golds, vaults and gang operations.",
-      "trophyIds": [
+      "id": "activities",
+      "title": "03 · Activities and completion",
+      "rationale": "Then complete “final mission” before broader completion tasks.",
+      "risk": "Missable risk: None indicated; totals and activity wins list no timed window.",
+      "ids": [
+        7,
+        14,
         15,
+        16,
         17,
-        33,
-        34,
+        18,
+        19,
+        20,
+        21,
+        35
+      ]
+    },
+    {
+      "id": "world",
+      "title": "04 · Leonida and encounters",
+      "rationale": "Follow “Explore all of Leonida” and remaining encounter requirements.",
+      "risk": "Missable risk: None indicated; exploration and encounter descriptions give no story cutoff.",
+      "ids": [
         36,
         37,
         38,
         39,
         40,
         41,
-        43
+        42,
+        43,
+        44,
+        45,
+        46
       ]
     },
     {
-      "title": "05 / Hidden moments & the Platinum",
-      "summary": "Finish after the other routes: clear the in-game checklist, discover hidden moments and earn the Platinum once every other trophy is complete.",
-      "trophyIds": [
-        1,
-        14,
-        44,
-        45,
-        46,
+      "id": "cleanup",
+      "title": "05 · Cleanup and platinum",
+      "rationale": "Finish “Purchase all garage properties” and remaining cleanup tasks.",
+      "risk": "Missable risk: None indicated; purchase, spending, and registration goals state no cutoff.",
+      "ids": [
         47,
         48,
         49,
         50,
-        51
+        51,
+        52,
+        53,
+        54,
+        55,
+        1
       ]
     }
   ],
-  "missables": {
-    "title": "Only missable reported so far: Positive Mental Attitude",
-    "text": "PowerPyx, KeenGamer and OutputLag report (18–19 Nov 2026) that Lucia’s balcony meditation spot is available in Chapter 1 and gone afterward. Make a manual save at the start of every chapter and before the final mission; the game has no mission replay or New Game Plus."
+  "missable": {
+    "id": 28,
+    "title": "Only missable reported so far",
+    "trigger": "Meditate at every spot across Leonida; reports flag this as missable, but the official trophy description does not provide a trigger window.",
+    "failure": "The exact failure condition and lockout point are not verified in the supplied official list.",
+    "recovery": "No verified recovery method is available from the supplied official list; confirm current guide reporting before committing to a point of no return.",
+    "sources": [
+      "Exophase",
+      "planetgta6",
+      "OutputLag",
+      "KeenGamer"
+    ]
   }
 }
