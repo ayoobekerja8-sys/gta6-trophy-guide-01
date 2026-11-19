@@ -43,7 +43,7 @@ function renderRoadmap() {
     <article class="roadmap-card">
       <h3>${escapeText(stage.title)}</h3>
       <p>${escapeText(stage.summary)}</p>
-      <span class="stage-count">${stage.trophyIds.length} listed trophies</span>
+      <p class="stage-trophies">${stage.trophyIds.map(id => trophyData.trophies.find(trophy => trophy.id === id)?.name).filter(Boolean).map(escapeText).join(" · ")}</p><span class="stage-count">${stage.trophyIds.length} listed trophies</span>
     </article>`).join('');
 }
 
@@ -170,20 +170,23 @@ async function importProgress(file) {
 
 function applyHashState() {
   const hash = location.hash;
-  document.body.classList.toggle('cover-capture', hash === '#cover');
+  document.body.classList.toggle('cover-capture', hash === '#cover' || hash === '#demo-earned');
+  document.body.classList.toggle('guide-capture', hash === '#trophy-28');
+  document.body.classList.toggle('roadmap-capture', hash === '#roadmap');
+  document.body.classList.toggle('filter-capture', hash.includes('='));
+  if (hash === '#demo-earned') {
+    earnedIds = new Set([2, 3, 14, 28, 31, 40]);
+    renderTrophies();
+    return;
+  }
   if (hash === '#spoilers-on') {
     setSpoilerPreference(true);
     renderTrophies();
     setTimeout(() => document.querySelector('#tracker').scrollIntoView(), 250);
     return;
   }
-  if (hash === '#demo-earned') {
-    earnedIds = new Set([1, 2, 14, 28, 31, 40, 52]);
-    renderTrophies();
-    return;
-  }
   if (hash === '#roadmap') {
-    setTimeout(() => document.querySelector('#roadmap').scrollIntoView(), 250);
+    renderTrophies();
     return;
   }
   const match = hash.match(/^#trophy-(\d+)$/);
@@ -199,10 +202,20 @@ function applyHashState() {
       if (card) {
         card.classList.add('is-open');
         card.querySelector('.card-top').setAttribute('aria-expanded', 'true');
-        card.scrollIntoView({ block: 'center' });
       }
     }, 300);
+    return;
   }
+  if (hash.includes('=')) {
+    ui.search.value = '';
+    ui.grade.value = 'all'; ui.kind.value = 'all'; ui.earned.value = 'all';
+    const params = new URLSearchParams(hash.slice(1));
+    if (['platinum','gold','silver','bronze','all'].includes(params.get('grade'))) ui.grade.value = params.get('grade');
+    if (['story','activity','collectible','robbery','combat','exploration','missable','all'].includes(params.get('kind'))) ui.kind.value = params.get('kind');
+    if (['earned','not-earned','all'].includes(params.get('status'))) ui.earned.value = params.get('status');
+    if (params.get('spoilers') === 'on' || params.get('spoilers') === 'off') setSpoilerPreference(params.get('spoilers') === 'on');
+  }
+  renderTrophies();
 }
 
 function connectControls() {

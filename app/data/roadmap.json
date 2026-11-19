@@ -2,7 +2,7 @@
   "stages": [
     {
       "title": "01 / Story first",
-      "summary": "Finish all five chapters and the final mission to establish the story baseline. These 12 story trophies are hidden until earned; the final mission also closes the main narrative.",
+      "summary": "Start here: complete all five chapters and the final mission to establish the story baseline. These 12 story trophies follow the main narrative.",
       "trophyIds": [
         2,
         3,
@@ -19,9 +19,14 @@
       ]
     },
     {
-      "title": "02 / Side missions and strangers",
-      "summary": "Work through Andy, Kenton, Billy, Randy, Tyrone and Bret, then complete eight stranger strands. Recheck the map as story progress opens new strand steps.",
+      "title": "02 / Side missions, strangers & activities",
+      "summary": "After the opening story beats, work through side strands, stranger jobs and activities as they open. Revisit the map as story progress unlocks more steps.",
       "trophyIds": [
+        16,
+        18,
+        19,
+        20,
+        21,
         22,
         23,
         24,
@@ -33,13 +38,14 @@
     },
     {
       "title": "03 / Collectibles and counts",
-      "summary": "Build steady progress toward 100 WAiNK It locations, 100 vehicles, three card sets, 18 meditation spots and 50 challenges and 10 Scooter Bros registrations. Do the Chapter 1 balcony meditation early; it is the reported missable.",
+      "summary": "Once Leonida is open to explore, build progress on meditation, collectibles, vehicles, challenges and Scooter Bros registrations. Visit Lucia’s balcony meditation spot during Chapter 1.",
       "trophyIds": [
         28,
         30,
         31,
         32,
         35,
+        42,
         52,
         53,
         54,
@@ -48,13 +54,15 @@
     },
     {
       "title": "04 / Combat and robberies",
-      "summary": "Finish the 250 stunts, 42 shooting-range golds, five bank vaults, armored truck, unseen jewelry robbery, one illegal operation per gang and Combat Focus takedowns.",
+      "summary": "With the map and activities available, work through combat trials, stunts and robberies. Leave time for the shooting range golds, vaults and gang operations.",
       "trophyIds": [
         15,
         17,
         33,
         34,
         36,
+        37,
+        38,
         39,
         40,
         41,
@@ -62,19 +70,11 @@
       ]
     },
     {
-      "title": "05 / Cleanup and 100%",
-      "summary": "Use the in-game 35-task checklist to finish A Long Road, then earn the Platinum by completing the remaining list items. Check activity, exploration and hidden moments before closing out.",
+      "title": "05 / Hidden moments & the Platinum",
+      "summary": "Finish after the other routes: clear the in-game checklist, discover hidden moments and earn the Platinum once every other trophy is complete.",
       "trophyIds": [
         1,
         14,
-        16,
-        18,
-        19,
-        20,
-        21,
-        37,
-        38,
-        42,
         44,
         45,
         46,
@@ -87,7 +87,7 @@
     }
   ],
   "missables": {
-    "title": "Missable warning: Positive Mental Attitude",
-    "text": "Meditate at all 18 spots. Lucia’s balcony meditation disappears after Chapter 1; do it early. Keep a manual save at the start of every chapter and before the final mission. The game has no mission replay or New Game Plus. Cheats disable trophies and saving."
+    "title": "Only missable reported so far: Positive Mental Attitude",
+    "text": "PowerPyx, KeenGamer and OutputLag report (18–19 Nov 2026) that Lucia’s balcony meditation spot is available in Chapter 1 and gone afterward. Make a manual save at the start of every chapter and before the final mission; the game has no mission replay or New Game Plus."
   }
 }
